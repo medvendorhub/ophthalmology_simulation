@@ -1,0 +1,851 @@
+Procedure_Date,Patient_ID,Proc_Code,Proc_Name,Surgeon,Theatre,Outcome
+2026-03-10,NHS4741247,C7910,Intravitreal Injection,Mr. Chen,Theatre 2,Successful
+2026-03-14,NHS4728703,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-02-17,NHS5941792,C5210,Trabeculectomy,Mr. Arul,Theatre 2,Successful
+2026-01-11,NHS7702241,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-03-16,NHS9190784,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-02-04,NHS7839007,C5210,Trabeculectomy,Ms. Davis,Theatre 3,Successful
+2026-03-03,NHS4971821,C7910,Intravitreal Injection,Mr. Arul,Theatre 3,Successful
+2026-03-03,NHS2596744,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Successful
+2026-03-24,NHS1797696,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Successful
+2026-03-30,NHS4423189,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 1,Successful
+2026-01-15,NHS1543769,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-02-18,NHS5639728,C7910,Intravitreal Injection,Mr. Arul,Theatre 2,Successful
+2026-02-04,NHS9068623,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 1,Successful
+2026-03-27,NHS4811466,C5210,Trabeculectomy,Ms. Benson,Theatre 3,Successful
+2026-03-09,NHS7395993,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 3,Successful
+2026-02-23,NHS1245571,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-01-08,NHS6634986,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 3,Successful
+2026-01-16,NHS6844534,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-03-10,NHS4172983,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-02-15,NHS3751970,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-02-07,NHS3563808,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 2,Successful
+2026-03-28,NHS4682267,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-03-10,NHS2204244,C8210,Vitrectomy,Mr. Chen,Theatre 3,Successful
+2026-01-30,NHS1825740,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-02-01,NHS3362139,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 1,Successful
+2026-03-19,NHS3072270,C7910,Intravitreal Injection,Ms. Benson,Theatre 1,Successful
+2026-02-24,NHS4421702,C7910,Intravitreal Injection,Ms. Benson,Theatre 1,Successful
+2026-03-25,NHS5482905,C7910,Intravitreal Injection,Ms. Benson,Theatre 3,Successful
+2026-02-09,NHS4558502,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-02-12,NHS7171990,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Successful
+2026-02-08,NHS4971821,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-03-19,NHS2527572,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-02-18,NHS7027859,C8210,Vitrectomy,Mr. Arul,Theatre 1,Successful
+2026-03-28,NHS9711964,C5210,Trabeculectomy,Ms. Benson,Theatre 3,Successful
+2026-01-10,NHS1917930,C5210,Trabeculectomy,Mr. Arul,Theatre 2,Successful
+2026-01-17,NHS1198742,C8210,Vitrectomy,Ms. Benson,Theatre 1,Successful
+2026-03-19,NHS4072687,C7910,Intravitreal Injection,Ms. Benson,Theatre 3,Successful
+2026-01-13,NHS4197174,C7910,Intravitreal Injection,Mr. Arul,Theatre 2,Successful
+2026-01-14,NHS1554846,C7910,Intravitreal Injection,Mr. Arul,Theatre 3,Successful
+2026-01-17,NHS5952772,C7910,Intravitreal Injection,Mr. Arul,Theatre 3,Successful
+2026-03-10,NHS3777226,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 3,Successful
+2026-03-03,NHS7991948,C5210,Trabeculectomy,Ms. Benson,Theatre 3,Successful
+2026-01-22,NHS4328766,C5210,Trabeculectomy,Ms. Davis,Theatre 3,Successful
+2026-01-08,NHS7031304,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 3,Successful
+2026-02-14,NHS3091901,C7910,Intravitreal Injection,Mr. Arul,Theatre 2,Successful
+2026-01-22,NHS5707533,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-01-22,NHS7495946,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-02-15,NHS7212814,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 3,Successful
+2026-02-28,NHS4917372,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Successful
+2026-01-06,NHS7429716,C5210,Trabeculectomy,Mr. Arul,Theatre 3,Successful
+2026-03-11,NHS6073892,C5210,Trabeculectomy,Mr. Arul,Theatre 1,Successful
+2026-03-10,NHS1693106,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 3,Successful
+2026-02-24,NHS4172983,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 3,Successful
+2026-02-07,NHS5600604,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-02-06,NHS9345240,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 3,Successful
+2026-02-21,NHS8504144,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 3,Successful
+2026-02-10,NHS5342887,C8210,Vitrectomy,Ms. Benson,Theatre 1,Successful
+2026-03-15,NHS5388286,C7910,Intravitreal Injection,Mr. Chen,Theatre 2,Successful
+2026-03-14,NHS7155434,C5210,Trabeculectomy,Mr. Arul,Theatre 3,Successful
+2026-03-22,NHS5215216,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-03-21,NHS9503155,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 3,Successful
+2026-02-20,NHS6826144,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-01-30,NHS7647640,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-02-27,NHS8268277,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-02-12,NHS4008498,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 3,Successful
+2026-03-18,NHS8781525,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-03-04,NHS2382255,C5210,Trabeculectomy,Ms. Benson,Theatre 3,Successful
+2026-03-18,NHS9974964,C8210,Vitrectomy,Ms. Benson,Theatre 3,Successful
+2026-01-23,NHS1345896,C7910,Intravitreal Injection,Ms. Benson,Theatre 3,Complication - Repositional needed
+2026-01-30,NHS4734412,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-03-17,NHS4400216,C5210,Trabeculectomy,Ms. Benson,Theatre 3,Successful
+2026-01-16,NHS4409017,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-01-29,NHS4977660,C7910,Intravitreal Injection,Ms. Benson,Theatre 3,Successful
+2026-02-26,NHS5433042,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 1,Successful
+2026-02-03,NHS9993526,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 3,Successful
+2026-02-05,NHS4197174,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 1,Successful
+2026-01-19,NHS8419770,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-03-25,NHS3563808,C8210,Vitrectomy,Ms. Benson,Theatre 3,Successful
+2026-01-24,NHS3254386,C8210,Vitrectomy,Mr. Chen,Theatre 1,Successful
+2026-03-10,NHS2454304,C8210,Vitrectomy,Ms. Benson,Theatre 3,Successful
+2026-02-23,NHS6476951,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-01-13,NHS9285111,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-01-19,NHS6944586,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-01-17,NHS2756078,C8210,Vitrectomy,Mr. Arul,Theatre 1,Successful
+2026-03-29,NHS7343837,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-02-02,NHS4024919,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-03-10,NHS8876991,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-01-18,NHS6846310,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-02-22,NHS6195875,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 1,Successful
+2026-02-10,NHS8974488,C7910,Intravitreal Injection,Mr. Arul,Theatre 2,Successful
+2026-03-04,NHS5125630,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-03-23,NHS7110491,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-02-26,NHS2837302,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-01-10,NHS4158913,C8210,Vitrectomy,Mr. Chen,Theatre 1,Successful
+2026-02-21,NHS2136349,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-02-12,NHS1199257,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-03-04,NHS8801081,C5210,Trabeculectomy,Mr. Arul,Theatre 3,Successful
+2026-02-19,NHS2493950,C5210,Trabeculectomy,Ms. Davis,Theatre 2,Successful
+2026-03-03,NHS2425529,C8210,Vitrectomy,Mr. Chen,Theatre 1,Successful
+2026-02-28,NHS4353051,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 3,Successful
+2026-03-30,NHS7667427,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-01-19,NHS3501447,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 2,Successful
+2026-03-01,NHS5419115,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 3,Successful
+2026-02-25,NHS5707533,C7910,Intravitreal Injection,Mr. Chen,Theatre 2,Successful
+2026-01-24,NHS7308731,C5210,Trabeculectomy,Mr. Chen,Theatre 3,Successful
+2026-01-25,NHS3134625,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-03-25,NHS8823417,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-03-06,NHS8290818,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 2,Successful
+2026-03-25,NHS5060455,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-02-02,NHS3636620,C5210,Trabeculectomy,Ms. Davis,Theatre 3,Successful
+2026-01-05,NHS8222313,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 3,Successful
+2026-03-13,NHS7369456,C7910,Intravitreal Injection,Mr. Arul,Theatre 3,Successful
+2026-01-24,NHS2051048,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-03-01,NHS4914080,C8210,Vitrectomy,Mr. Chen,Theatre 3,Successful
+2026-01-29,NHS6529473,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-01-31,NHS6754967,C7910,Intravitreal Injection,Mr. Chen,Theatre 3,Successful
+2026-01-09,NHS8014767,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-01-16,NHS6634986,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Successful
+2026-02-17,NHS8823774,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-02-09,NHS3805836,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-02-05,NHS1256653,C7910,Intravitreal Injection,Ms. Benson,Theatre 3,Successful
+2026-01-16,NHS3213734,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-02-01,NHS1972330,C5210,Trabeculectomy,Mr. Arul,Theatre 2,Successful
+2026-03-09,NHS2478953,C8210,Vitrectomy,Mr. Chen,Theatre 1,Successful
+2026-02-03,NHS2452260,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 3,Successful
+2026-02-13,NHS5872287,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 1,Successful
+2026-02-15,NHS2878209,C8210,Vitrectomy,Ms. Benson,Theatre 3,Successful
+2026-03-04,NHS2518791,C5210,Trabeculectomy,Ms. Davis,Theatre 2,Successful
+2026-01-09,NHS9232636,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-02-26,NHS7636998,C8210,Vitrectomy,Ms. Benson,Theatre 1,Successful
+2026-03-07,NHS6087882,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-03-25,NHS8969661,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-02-02,NHS6630525,C7910,Intravitreal Injection,Mr. Chen,Theatre 2,Successful
+2026-03-11,NHS1327605,C7910,Intravitreal Injection,Ms. Benson,Theatre 1,Successful
+2026-02-22,NHS8337532,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-02-03,NHS5832713,C8210,Vitrectomy,Mr. Arul,Theatre 1,Successful
+2026-02-01,NHS6420394,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 2,Successful
+2026-03-21,NHS6736013,C5210,Trabeculectomy,Ms. Benson,Theatre 3,Successful
+2026-03-05,NHS9168432,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 3,Successful
+2026-03-24,NHS4092074,C7910,Intravitreal Injection,Ms. Benson,Theatre 1,Successful
+2026-03-18,NHS5129236,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-02-24,NHS5231165,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-03-19,NHS9595719,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-03-15,NHS1892184,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 2,Successful
+2026-03-27,NHS1098163,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 1,Successful
+2026-01-12,NHS6669596,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-02-03,NHS1210868,C5210,Trabeculectomy,Mr. Arul,Theatre 2,Successful
+2026-02-21,NHS9068623,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-01-02,NHS5482905,C8210,Vitrectomy,Mr. Arul,Theatre 1,Successful
+2026-02-14,NHS3706241,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-03-19,NHS1245571,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-02-27,NHS5902334,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-02-09,NHS9162868,C5210,Trabeculectomy,Mr. Arul,Theatre 3,Successful
+2026-01-30,NHS3713668,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-03-28,NHS8896703,C7910,Intravitreal Injection,Ms. Benson,Theatre 3,Successful
+2026-02-20,NHS4896845,C5210,Trabeculectomy,Mr. Arul,Theatre 1,Successful
+2026-02-02,NHS9190784,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-02-22,NHS5125630,C8210,Vitrectomy,Ms. Davis,Theatre 1,Successful
+2026-03-10,NHS9974964,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 3,Successful
+2026-02-16,NHS4582248,C5210,Trabeculectomy,Mr. Chen,Theatre 3,Successful
+2026-03-15,NHS9815235,C7910,Intravitreal Injection,Mr. Arul,Theatre 3,Successful
+2026-03-16,NHS5390622,C5210,Trabeculectomy,Mr. Arul,Theatre 1,Successful
+2026-02-18,NHS3468170,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 3,Successful
+2026-02-11,NHS1883068,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 1,Successful
+2026-03-05,NHS7879551,C5210,Trabeculectomy,Mr. Arul,Theatre 3,Successful
+2026-03-12,NHS4558502,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-02-28,NHS5338158,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-02-09,NHS5902334,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-03-13,NHS4977660,C5210,Trabeculectomy,Ms. Davis,Theatre 3,Successful
+2026-01-02,NHS9860901,C7910,Intravitreal Injection,Mr. Chen,Theatre 1,Successful
+2026-03-23,NHS6470637,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 1,Successful
+2026-02-20,NHS4540849,C5210,Trabeculectomy,Mr. Arul,Theatre 3,Successful
+2026-02-10,NHS8282771,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-02-08,NHS8881837,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-02-15,NHS1755495,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-01-29,NHS3202518,C8210,Vitrectomy,Ms. Benson,Theatre 2,Successful
+2026-02-09,NHS8458945,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-01-06,NHS1797696,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-03-11,NHS5944869,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 1,Successful
+2026-02-14,NHS6880759,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-03-05,NHS2083575,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 3,Successful
+2026-03-25,NHS4842252,C8210,Vitrectomy,Mr. Chen,Theatre 3,Successful
+2026-01-01,NHS1786750,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 3,Successful
+2026-02-04,NHS3914239,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 2,Successful
+2026-01-12,NHS2285051,C5210,Trabeculectomy,Mr. Chen,Theatre 3,Successful
+2026-02-14,NHS6354772,C7910,Intravitreal Injection,Ms. Benson,Theatre 3,Successful
+2026-01-23,NHS1137733,C5210,Trabeculectomy,Mr. Arul,Theatre 3,Successful
+2026-02-22,NHS6823003,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-01-14,NHS9168432,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-02-06,NHS6189741,C5210,Trabeculectomy,Ms. Davis,Theatre 2,Successful
+2026-03-01,NHS6073892,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-03-19,NHS3083761,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-01-29,NHS2086422,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-02-28,NHS2853470,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-02-28,NHS8491720,C5210,Trabeculectomy,Ms. Davis,Theatre 2,Successful
+2026-03-26,NHS8290818,C7910,Intravitreal Injection,Mr. Arul,Theatre 2,Successful
+2026-03-09,NHS7059296,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-01-19,NHS2285051,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-02-27,NHS6992337,C5210,Trabeculectomy,Mr. Arul,Theatre 1,Complication - Repositional needed
+2026-03-27,NHS4108826,C5210,Trabeculectomy,Ms. Davis,Theatre 2,Successful
+2026-03-22,NHS7454650,C5210,Trabeculectomy,Ms. Benson,Theatre 3,Successful
+2026-01-12,NHS6507619,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-03-17,NHS1236587,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 1,Successful
+2026-01-04,NHS7660599,C5210,Trabeculectomy,Mr. Chen,Theatre 3,Successful
+2026-01-12,NHS8798419,C8210,Vitrectomy,Mr. Chen,Theatre 1,Successful
+2026-02-08,NHS9309207,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-02-02,NHS1941124,C5210,Trabeculectomy,Ms. Davis,Theatre 2,Successful
+2026-02-25,NHS6432319,C5210,Trabeculectomy,Ms. Davis,Theatre 1,Successful
+2026-02-04,NHS6582841,C5210,Trabeculectomy,Mr. Chen,Theatre 3,Successful
+2026-01-23,NHS5504300,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-03-22,NHS7943984,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-03-16,NHS9333499,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-03-13,NHS5129236,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-01-13,NHS5433042,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-03-22,NHS7155434,C5210,Trabeculectomy,Mr. Arul,Theatre 1,Successful
+2026-02-19,NHS8337532,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-01-14,NHS8906139,C7910,Intravitreal Injection,Ms. Benson,Theatre 1,Successful
+2026-01-10,NHS5397768,C5210,Trabeculectomy,Ms. Davis,Theatre 2,Successful
+2026-03-15,NHS7034428,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-03-18,NHS5060455,C7910,Intravitreal Injection,Mr. Chen,Theatre 1,Successful
+2026-02-08,NHS2034891,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 2,Successful
+2026-03-31,NHS3937618,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 3,Complication - Repositional needed
+2026-01-28,NHS2491380,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-02-01,NHS7350784,C5210,Trabeculectomy,Mr. Arul,Theatre 2,Successful
+2026-02-27,NHS8183505,C7910,Intravitreal Injection,Ms. Benson,Theatre 1,Successful
+2026-01-07,NHS1065625,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 3,Successful
+2026-03-07,NHS4442411,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-01-04,NHS6706451,C7910,Intravitreal Injection,Mr. Chen,Theatre 2,Successful
+2026-02-21,NHS8484027,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-02-20,NHS9860997,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-03-21,NHS8693687,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-03-14,NHS5504300,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-03-29,NHS3102038,C8210,Vitrectomy,Mr. Arul,Theatre 1,Successful
+2026-03-21,NHS8518619,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-02-01,NHS6529473,C7910,Intravitreal Injection,Mr. Chen,Theatre 3,Successful
+2026-02-21,NHS6826144,C7910,Intravitreal Injection,Mr. Chen,Theatre 2,Successful
+2026-01-05,NHS9580303,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-02-23,NHS5129069,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-02-17,NHS7136880,C5210,Trabeculectomy,Mr. Chen,Theatre 3,Successful
+2026-01-03,NHS4971821,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Successful
+2026-03-24,NHS7110491,C5210,Trabeculectomy,Mr. Arul,Theatre 2,Complication - Repositional needed
+2026-03-09,NHS8362136,C8210,Vitrectomy,Mr. Chen,Theatre 1,Successful
+2026-02-07,NHS8664417,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-01-09,NHS5047216,C8210,Vitrectomy,Ms. Davis,Theatre 1,Successful
+2026-03-05,NHS6657401,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-03-13,NHS6432319,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 2,Successful
+2026-02-14,NHS4221943,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-02-04,NHS5723219,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-02-15,NHS5777520,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-02-26,NHS9709141,C7910,Intravitreal Injection,Mr. Arul,Theatre 3,Successful
+2026-01-20,NHS7308731,C5210,Trabeculectomy,Mr. Arul,Theatre 1,Successful
+2026-01-03,NHS6195875,C8210,Vitrectomy,Mr. Arul,Theatre 1,Successful
+2026-03-15,NHS9444871,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 2,Successful
+2026-01-13,NHS1801828,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-03-16,NHS9124294,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 3,Successful
+2026-03-08,NHS5697446,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-01-12,NHS4709866,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Complication - Repositional needed
+2026-01-28,NHS9285111,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 1,Successful
+2026-02-27,NHS7350784,C8210,Vitrectomy,Mr. Chen,Theatre 3,Successful
+2026-02-07,NHS2967129,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-01-27,NHS9974964,C7910,Intravitreal Injection,Mr. Chen,Theatre 1,Successful
+2026-03-18,NHS2864572,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-01-30,NHS5408585,C5210,Trabeculectomy,Ms. Davis,Theatre 3,Successful
+2026-01-15,NHS7782449,C5210,Trabeculectomy,Ms. Davis,Theatre 3,Successful
+2026-03-04,NHS2831839,C7910,Intravitreal Injection,Mr. Chen,Theatre 3,Successful
+2026-02-02,NHS3813510,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-01-28,NHS7991948,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Successful
+2026-01-08,NHS4328766,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-01-24,NHS4860342,C7910,Intravitreal Injection,Ms. Benson,Theatre 3,Successful
+2026-01-08,NHS3364957,C5210,Trabeculectomy,Ms. Benson,Theatre 3,Successful
+2026-02-17,NHS4442411,C8210,Vitrectomy,Mr. Chen,Theatre 1,Successful
+2026-01-27,NHS5697446,C7910,Intravitreal Injection,Mr. Arul,Theatre 2,Successful
+2026-03-04,NHS3914239,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-02-22,NHS3966841,C8210,Vitrectomy,Mr. Arul,Theatre 1,Successful
+2026-02-09,NHS4728703,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-02-20,NHS5166196,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-03-31,NHS8791507,C7910,Intravitreal Injection,Mr. Arul,Theatre 2,Successful
+2026-01-25,NHS6354772,C7910,Intravitreal Injection,Mr. Arul,Theatre 3,Successful
+2026-03-08,NHS5843866,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-02-24,NHS3813510,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-01-11,NHS3749493,C8210,Vitrectomy,Mr. Chen,Theatre 2,Successful
+2026-01-01,NHS1288169,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-01-13,NHS6943394,C7910,Intravitreal Injection,Mr. Arul,Theatre 2,Successful
+2026-02-27,NHS9699653,C5210,Trabeculectomy,Mr. Chen,Theatre 3,Successful
+2026-03-09,NHS7877312,C7910,Intravitreal Injection,Ms. Benson,Theatre 1,Successful
+2026-03-01,NHS5902334,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-03-06,NHS9580303,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 1,Successful
+2026-02-24,NHS6651359,C5210,Trabeculectomy,Ms. Davis,Theatre 1,Successful
+2026-01-31,NHS2416540,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-02-24,NHS9285111,C5210,Trabeculectomy,Ms. Davis,Theatre 1,Successful
+2026-02-28,NHS4945537,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-03-15,NHS6943394,C8210,Vitrectomy,Ms. Benson,Theatre 3,Successful
+2026-01-02,NHS8301477,C5210,Trabeculectomy,Mr. Arul,Theatre 1,Successful
+2026-03-22,NHS9162868,C5210,Trabeculectomy,Mr. Arul,Theatre 3,Successful
+2026-01-28,NHS3501447,C8210,Vitrectomy,Mr. Arul,Theatre 1,Successful
+2026-03-20,NHS1025993,C8210,Vitrectomy,Mr. Chen,Theatre 2,Successful
+2026-02-19,NHS6987251,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-01-16,NHS6160838,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-02-03,NHS8944945,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Successful
+2026-02-17,NHS9505193,C7910,Intravitreal Injection,Ms. Benson,Theatre 3,Successful
+2026-01-12,NHS9068623,C8210,Vitrectomy,Mr. Arul,Theatre 1,Successful
+2026-03-23,NHS1130134,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-02-09,NHS2425529,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-03-08,NHS7647640,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 1,Successful
+2026-03-26,NHS2518791,C7910,Intravitreal Injection,Mr. Chen,Theatre 2,Successful
+2026-03-19,NHS1439169,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-02-10,NHS2336663,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 1,Successful
+2026-03-29,NHS8187349,C8210,Vitrectomy,Ms. Benson,Theatre 2,Successful
+2026-01-24,NHS9696295,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-01-22,NHS3966841,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 2,Successful
+2026-03-16,NHS2941272,C5210,Trabeculectomy,Ms. Davis,Theatre 2,Successful
+2026-03-27,NHS6800370,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-01-17,NHS6706272,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-01-11,NHS5357027,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-02-13,NHS1327605,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-01-17,NHS6706272,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 3,Successful
+2026-03-20,NHS2254278,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 1,Successful
+2026-03-25,NHS1124825,C5210,Trabeculectomy,Mr. Arul,Theatre 1,Successful
+2026-03-16,NHS9444871,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-03-26,NHS9860997,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-02-12,NHS6699424,C8210,Vitrectomy,Ms. Davis,Theatre 1,Successful
+2026-02-21,NHS1124825,C5210,Trabeculectomy,Ms. Davis,Theatre 3,Successful
+2026-02-10,NHS1210868,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-01-15,NHS8579236,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-03-08,NHS7723715,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-03-15,NHS3182193,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-03-10,NHS5642877,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Successful
+2026-03-22,NHS7031304,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Successful
+2026-01-18,NHS5231165,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-02-10,NHS3091901,C5210,Trabeculectomy,Ms. Benson,Theatre 3,Successful
+2026-01-10,NHS3641244,C7910,Intravitreal Injection,Mr. Chen,Theatre 2,Successful
+2026-02-03,NHS2711432,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-03-24,NHS7294106,C5210,Trabeculectomy,Ms. Davis,Theatre 2,Successful
+2026-02-14,NHS3096939,C7910,Intravitreal Injection,Mr. Chen,Theatre 1,Successful
+2026-03-13,NHS2676351,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-02-05,NHS5675437,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 2,Successful
+2026-01-11,NHS3020014,C5210,Trabeculectomy,Ms. Davis,Theatre 2,Successful
+2026-03-20,NHS8074096,C5210,Trabeculectomy,Mr. Chen,Theatre 3,Successful
+2026-01-21,NHS8458945,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-02-13,NHS2512503,C8210,Vitrectomy,Mr. Chen,Theatre 3,Successful
+2026-02-10,NHS5473234,C5210,Trabeculectomy,Ms. Benson,Theatre 3,Successful
+2026-01-28,NHS5163497,C5210,Trabeculectomy,Mr. Arul,Theatre 2,Successful
+2026-01-31,NHS7953410,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-01-28,NHS7402306,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-01-02,NHS2336663,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Complication - Repositional needed
+2026-01-19,NHS4197174,C7910,Intravitreal Injection,Mr. Chen,Theatre 3,Successful
+2026-03-05,NHS3969193,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 3,Successful
+2026-01-05,NHS1129682,C5210,Trabeculectomy,Mr. Arul,Theatre 2,Successful
+2026-01-12,NHS9860997,C8210,Vitrectomy,Mr. Chen,Theatre 2,Successful
+2026-03-10,NHS6160687,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-03-29,NHS6177963,C7910,Intravitreal Injection,Mr. Arul,Theatre 2,Successful
+2026-03-14,NHS1025993,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-03-05,NHS9333499,C8210,Vitrectomy,Mr. Chen,Theatre 3,Successful
+2026-03-02,NHS9021439,C5210,Trabeculectomy,Ms. Davis,Theatre 1,Successful
+2026-03-05,NHS4987393,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 1,Successful
+2026-02-26,NHS9345240,C8210,Vitrectomy,Ms. Benson,Theatre 1,Successful
+2026-02-05,NHS4652948,C5210,Trabeculectomy,Mr. Arul,Theatre 2,Successful
+2026-01-27,NHS3421379,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 3,Successful
+2026-02-02,NHS2345246,C5210,Trabeculectomy,Ms. Davis,Theatre 1,Successful
+2026-03-06,NHS3777226,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 2,Successful
+2026-02-13,NHS1327605,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-02-17,NHS5801610,C8210,Vitrectomy,Ms. Davis,Theatre 1,Successful
+2026-03-26,NHS8002467,C5210,Trabeculectomy,Mr. Chen,Theatre 3,Successful
+2026-03-25,NHS5468961,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-01-16,NHS2336663,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 3,Successful
+2026-01-02,NHS9568293,C8210,Vitrectomy,Ms. Davis,Theatre 1,Successful
+2026-01-29,NHS7262747,C5210,Trabeculectomy,Mr. Arul,Theatre 1,Successful
+2026-03-07,NHS2712737,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-02-10,NHS7110491,C8210,Vitrectomy,Ms. Benson,Theatre 2,Successful
+2026-02-21,NHS6432715,C8210,Vitrectomy,Ms. Davis,Theatre 1,Successful
+2026-03-23,NHS1398706,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-02-11,NHS3083761,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 2,Successful
+2026-02-23,NHS2123689,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-02-08,NHS1905751,C5210,Trabeculectomy,Mr. Arul,Theatre 3,Successful
+2026-01-22,NHS5166196,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-01-05,NHS5247415,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-01-23,NHS9833011,C5210,Trabeculectomy,Mr. Arul,Theatre 2,Successful
+2026-03-03,NHS7458875,C5210,Trabeculectomy,Ms. Benson,Theatre 3,Successful
+2026-03-12,NHS1288169,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-03-11,NHS4917372,C5210,Trabeculectomy,Mr. Arul,Theatre 1,Successful
+2026-02-08,NHS9358027,C5210,Trabeculectomy,Mr. Arul,Theatre 2,Successful
+2026-03-11,NHS5473234,C5210,Trabeculectomy,Ms. Davis,Theatre 1,Successful
+2026-02-14,NHS4421702,C7910,Intravitreal Injection,Ms. Benson,Theatre 3,Successful
+2026-02-10,NHS1554846,C7910,Intravitreal Injection,Mr. Chen,Theatre 3,Successful
+2026-02-20,NHS4524528,C8210,Vitrectomy,Ms. Davis,Theatre 1,Successful
+2026-03-02,NHS6263389,C5210,Trabeculectomy,Ms. Davis,Theatre 2,Successful
+2026-01-28,NHS4987393,C7910,Intravitreal Injection,Mr. Chen,Theatre 2,Successful
+2026-01-02,NHS2611262,C7910,Intravitreal Injection,Mr. Arul,Theatre 3,Successful
+2026-01-26,NHS1405593,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 1,Successful
+2026-03-16,NHS3749493,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-01-01,NHS1868589,C8210,Vitrectomy,Mr. Chen,Theatre 2,Successful
+2026-02-15,NHS6988788,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-01-25,NHS5129069,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 1,Successful
+2026-01-16,NHS6195875,C7910,Intravitreal Injection,Ms. Benson,Theatre 1,Successful
+2026-03-24,NHS8156442,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 1,Successful
+2026-01-14,NHS7185478,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 2,Successful
+2026-02-08,NHS3364957,C8210,Vitrectomy,Mr. Chen,Theatre 2,Successful
+2026-03-11,NHS3010587,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-03-07,NHS8882664,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 3,Successful
+2026-03-08,NHS9719398,C8210,Vitrectomy,Mr. Arul,Theatre 1,Successful
+2026-03-03,NHS5902334,C5210,Trabeculectomy,Mr. Arul,Theatre 2,Successful
+2026-02-02,NHS5342887,C7910,Intravitreal Injection,Mr. Arul,Theatre 2,Successful
+2026-01-23,NHS5854791,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-01-15,NHS2120210,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 1,Successful
+2026-01-14,NHS9178021,C5210,Trabeculectomy,Ms. Davis,Theatre 1,Successful
+2026-01-16,NHS7264989,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-03-25,NHS5309012,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-03-05,NHS2123689,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-03-22,NHS8339894,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 3,Successful
+2026-03-07,NHS5234430,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-01-26,NHS8774767,C8210,Vitrectomy,Mr. Arul,Theatre 1,Successful
+2026-03-03,NHS7402878,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-01-09,NHS3662679,C8210,Vitrectomy,Ms. Benson,Theatre 3,Successful
+2026-02-28,NHS6651359,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 1,Successful
+2026-02-20,NHS4042522,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 3,Successful
+2026-01-03,NHS8339894,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 1,Successful
+2026-03-16,NHS1825640,C7910,Intravitreal Injection,Ms. Benson,Theatre 1,Successful
+2026-03-15,NHS9762198,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Complication - Repositional needed
+2026-01-21,NHS2086422,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-01-05,NHS4145418,C8210,Vitrectomy,Ms. Davis,Theatre 1,Successful
+2026-02-26,NHS1481133,C8210,Vitrectomy,Ms. Davis,Theatre 1,Successful
+2026-02-16,NHS8906139,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-01-08,NHS8426316,C7910,Intravitreal Injection,Mr. Chen,Theatre 1,Successful
+2026-01-26,NHS1781321,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Successful
+2026-02-25,NHS9719398,C5210,Trabeculectomy,Ms. Davis,Theatre 1,Successful
+2026-02-11,NHS4886141,C8210,Vitrectomy,Mr. Chen,Theatre 2,Successful
+2026-02-22,NHS2875728,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 1,Successful
+2026-01-14,NHS8693687,C7910,Intravitreal Injection,Mr. Chen,Theatre 1,Successful
+2026-03-22,NHS2831839,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-01-02,NHS9120260,C8210,Vitrectomy,Mr. Chen,Theatre 2,Successful
+2026-02-21,NHS9803089,C7910,Intravitreal Injection,Mr. Arul,Theatre 3,Successful
+2026-01-10,NHS4042522,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-02-27,NHS8419770,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 3,Successful
+2026-01-17,NHS3017772,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-03-27,NHS3960861,C7910,Intravitreal Injection,Ms. Benson,Theatre 1,Successful
+2026-01-26,NHS1155582,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-03-27,NHS3563808,C5210,Trabeculectomy,Ms. Davis,Theatre 1,Successful
+2026-02-21,NHS5801610,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-01-10,NHS5977153,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 1,Successful
+2026-02-28,NHS9691507,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-03-20,NHS4618088,C5210,Trabeculectomy,Mr. Chen,Theatre 3,Successful
+2026-01-05,NHS4714633,C8210,Vitrectomy,Ms. Benson,Theatre 1,Successful
+2026-03-01,NHS8566929,C5210,Trabeculectomy,Mr. Arul,Theatre 3,Successful
+2026-01-21,NHS7155301,C5210,Trabeculectomy,Ms. Davis,Theatre 3,Successful
+2026-03-16,NHS5340449,C5210,Trabeculectomy,Mr. Arul,Theatre 2,Successful
+2026-02-09,NHS5637260,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-02-07,NHS1345896,C5210,Trabeculectomy,Ms. Davis,Theatre 2,Successful
+2026-03-14,NHS5317054,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 3,Successful
+2026-02-14,NHS5977153,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 3,Successful
+2026-02-19,NHS5314077,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 1,Successful
+2026-02-01,NHS5397768,C5210,Trabeculectomy,Mr. Arul,Theatre 3,Successful
+2026-01-23,NHS6087882,C7910,Intravitreal Injection,Ms. Benson,Theatre 1,Successful
+2026-01-25,NHS2051048,C8210,Vitrectomy,Mr. Chen,Theatre 3,Successful
+2026-03-09,NHS4734412,C8210,Vitrectomy,Mr. Arul,Theatre 1,Successful
+2026-02-15,NHS3409465,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-01-10,NHS7034298,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 1,Successful
+2026-02-28,NHS5698165,C5210,Trabeculectomy,Mr. Chen,Theatre 3,Successful
+2026-01-04,NHS3805836,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-01-09,NHS6554535,C7910,Intravitreal Injection,Mr. Chen,Theatre 1,Complication - Repositional needed
+2026-03-08,NHS5287285,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 3,Successful
+2026-01-27,NHS1786750,C8210,Vitrectomy,Ms. Davis,Theatre 1,Successful
+2026-03-08,NHS7072705,C5210,Trabeculectomy,Mr. Arul,Theatre 3,Successful
+2026-01-04,NHS4029915,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-02-23,NHS5723219,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 3,Successful
+2026-01-18,NHS4092074,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 1,Successful
+2026-03-23,NHS3775986,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-01-26,NHS7130112,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-01-06,NHS3915387,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Complication - Repositional needed
+2026-02-08,NHS2239402,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-02-21,NHS5309012,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 3,Successful
+2026-01-04,NHS1480150,C7910,Intravitreal Injection,Ms. Benson,Theatre 1,Successful
+2026-03-18,NHS9594313,C5210,Trabeculectomy,Mr. Chen,Theatre 3,Successful
+2026-03-25,NHS4627435,C8210,Vitrectomy,Ms. Benson,Theatre 1,Successful
+2026-01-06,NHS1398706,C8210,Vitrectomy,Ms. Benson,Theatre 3,Successful
+2026-02-10,NHS7253275,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-01-30,NHS1098163,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 1,Successful
+2026-03-13,NHS9084476,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-02-18,NHS1632152,C7910,Intravitreal Injection,Mr. Chen,Theatre 3,Successful
+2026-01-28,NHS9152236,C7910,Intravitreal Injection,Ms. Benson,Theatre 1,Successful
+2026-02-01,NHS5521254,C7910,Intravitreal Injection,Ms. Benson,Theatre 1,Successful
+2026-02-03,NHS8434788,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 3,Complication - Repositional needed
+2026-02-10,NHS8801081,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-02-10,NHS1563667,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 1,Successful
+2026-01-17,NHS1277957,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-02-04,NHS7636998,C8210,Vitrectomy,Mr. Chen,Theatre 3,Successful
+2026-03-03,NHS6420394,C7910,Intravitreal Injection,Mr. Chen,Theatre 3,Successful
+2026-03-06,NHS6944586,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 1,Successful
+2026-02-14,NHS9120260,C7910,Intravitreal Injection,Mr. Chen,Theatre 2,Successful
+2026-03-13,NHS5388286,C7910,Intravitreal Injection,Mr. Chen,Theatre 3,Successful
+2026-03-05,NHS6432319,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-01-09,NHS7310147,C7910,Intravitreal Injection,Mr. Arul,Theatre 2,Successful
+2026-02-24,NHS5482905,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-01-22,NHS3641244,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-02-03,NHS4699940,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-01-20,NHS3748780,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 3,Successful
+2026-01-24,NHS9691507,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 1,Successful
+2026-02-14,NHS6880759,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-03-16,NHS2132120,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-03-26,NHS1065625,C5210,Trabeculectomy,Ms. Benson,Theatre 3,Successful
+2026-02-05,NHS2956132,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-02-18,NHS9923390,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-01-30,NHS1271015,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 3,Successful
+2026-03-09,NHS7895302,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-03-26,NHS8187349,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 1,Successful
+2026-03-29,NHS8781525,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 2,Successful
+2026-02-10,NHS8823417,C5210,Trabeculectomy,Mr. Chen,Theatre 3,Successful
+2026-02-15,NHS1883068,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Successful
+2026-02-14,NHS8222313,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-01-20,NHS3914239,C7910,Intravitreal Injection,Mr. Chen,Theatre 2,Successful
+2026-03-10,NHS9595719,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 1,Successful
+2026-03-24,NHS8627562,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-03-14,NHS2945506,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 1,Successful
+2026-02-13,NHS4108826,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 1,Successful
+2026-01-23,NHS7369456,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 2,Successful
+2026-02-01,NHS3134625,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-01-09,NHS3010587,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-02-01,NHS6651359,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 1,Successful
+2026-03-25,NHS1693106,C8210,Vitrectomy,Mr. Arul,Theatre 1,Complication - Repositional needed
+2026-03-02,NHS3199989,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 3,Successful
+2026-02-01,NHS4197174,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-03-07,NHS9430111,C5210,Trabeculectomy,Mr. Arul,Theatre 3,Successful
+2026-02-02,NHS8404415,C7910,Intravitreal Injection,Ms. Benson,Theatre 3,Successful
+2026-01-02,NHS4737853,C7910,Intravitreal Injection,Mr. Chen,Theatre 1,Successful
+2026-02-06,NHS6736013,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 2,Successful
+2026-01-25,NHS4917372,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-03-25,NHS3813510,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-03-14,NHS1989950,C8210,Vitrectomy,Ms. Benson,Theatre 2,Complication - Repositional needed
+2026-02-16,NHS8126357,C5210,Trabeculectomy,Ms. Davis,Theatre 2,Successful
+2026-01-09,NHS5433042,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-02-13,NHS8967500,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-02-11,NHS5801610,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-02-15,NHS7879020,C8210,Vitrectomy,Ms. Benson,Theatre 3,Successful
+2026-02-04,NHS8290818,C5210,Trabeculectomy,Ms. Davis,Theatre 2,Successful
+2026-01-02,NHS7166241,C7910,Intravitreal Injection,Ms. Benson,Theatre 3,Successful
+2026-03-19,NHS3182193,C8210,Vitrectomy,Mr. Arul,Theatre 1,Successful
+2026-01-14,NHS4709866,C8210,Vitrectomy,Ms. Davis,Theatre 1,Successful
+2026-01-04,NHS4145418,C7910,Intravitreal Injection,Ms. Benson,Theatre 3,Successful
+2026-01-01,NHS6526853,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-03-11,NHS1781321,C8210,Vitrectomy,Ms. Benson,Theatre 3,Successful
+2026-01-03,NHS9021439,C5210,Trabeculectomy,Ms. Davis,Theatre 1,Successful
+2026-01-13,NHS1800376,C7910,Intravitreal Injection,Mr. Arul,Theatre 3,Successful
+2026-02-12,NHS7402306,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-03-28,NHS8014767,C5210,Trabeculectomy,Ms. Davis,Theatre 2,Successful
+2026-03-05,NHS1245571,C7910,Intravitreal Injection,Mr. Chen,Theatre 1,Successful
+2026-01-04,NHS3857778,C8210,Vitrectomy,Ms. Benson,Theatre 1,Successful
+2026-01-31,NHS5089009,C8210,Vitrectomy,Ms. Davis,Theatre 1,Successful
+2026-03-20,NHS8791507,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-02-26,NHS2746516,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-03-01,NHS1183172,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-02-28,NHS1608980,C7910,Intravitreal Injection,Mr. Chen,Theatre 1,Successful
+2026-01-11,NHS8944945,C8210,Vitrectomy,Mr. Chen,Theatre 3,Successful
+2026-02-10,NHS5571607,C5210,Trabeculectomy,Ms. Benson,Theatre 3,Successful
+2026-03-19,NHS5441602,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-02-12,NHS8187349,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 3,Successful
+2026-03-05,NHS5557495,C8210,Vitrectomy,Ms. Davis,Theatre 1,Successful
+2026-03-23,NHS2250313,C5210,Trabeculectomy,Mr. Chen,Theatre 3,Successful
+2026-03-07,NHS6651359,C8210,Vitrectomy,Ms. Benson,Theatre 2,Successful
+2026-02-17,NHS4360123,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-03-28,NHS6160838,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-02-20,NHS3773298,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-03-04,NHS7155301,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 2,Successful
+2026-01-19,NHS6922435,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-02-15,NHS1883068,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 2,Successful
+2026-01-10,NHS4582248,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-01-19,NHS9309207,C7910,Intravitreal Injection,Mr. Chen,Theatre 3,Successful
+2026-03-19,NHS1989950,C8210,Vitrectomy,Ms. Benson,Theatre 2,Successful
+2026-01-03,NHS6582841,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 3,Successful
+2026-01-23,NHS5106622,C7910,Intravitreal Injection,Mr. Chen,Theatre 3,Successful
+2026-03-05,NHS5698165,C8210,Vitrectomy,Mr. Chen,Theatre 2,Successful
+2026-02-15,NHS8156810,C7910,Intravitreal Injection,Mr. Arul,Theatre 3,Successful
+2026-02-13,NHS5468961,C8210,Vitrectomy,Mr. Chen,Theatre 3,Successful
+2026-01-03,NHS5163497,C8210,Vitrectomy,Ms. Benson,Theatre 1,Successful
+2026-03-10,NHS4081179,C5210,Trabeculectomy,Mr. Chen,Theatre 3,Successful
+2026-03-26,NHS7458875,C5210,Trabeculectomy,Ms. Davis,Theatre 1,Successful
+2026-01-30,NHS5357027,C5210,Trabeculectomy,Mr. Arul,Theatre 2,Successful
+2026-03-14,NHS2596744,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 3,Successful
+2026-01-13,NHS5408585,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-02-05,NHS5998868,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 1,Successful
+2026-03-25,NHS9430111,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-01-21,NHS3832792,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 3,Successful
+2026-03-20,NHS9423095,C8210,Vitrectomy,Ms. Davis,Theatre 1,Successful
+2026-02-19,NHS2188216,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-01-06,NHS8290818,C7910,Intravitreal Injection,Mr. Chen,Theatre 2,Successful
+2026-03-12,NHS4914080,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-01-15,NHS3704303,C8210,Vitrectomy,Ms. Benson,Theatre 2,Successful
+2026-03-08,NHS5832713,C7910,Intravitreal Injection,Ms. Benson,Theatre 1,Successful
+2026-02-15,NHS8929947,C5210,Trabeculectomy,Ms. Davis,Theatre 1,Successful
+2026-01-27,NHS2254278,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Successful
+2026-03-04,NHS3091901,C8210,Vitrectomy,Ms. Benson,Theatre 3,Successful
+2026-03-22,NHS8882664,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-01-23,NHS2665222,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-02-28,NHS8691353,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 1,Successful
+2026-01-07,NHS2352768,C8210,Vitrectomy,Mr. Chen,Theatre 1,Successful
+2026-03-22,NHS8664417,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-02-10,NHS7027859,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-01-09,NHS3954964,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-01-07,NHS9430111,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-03-20,NHS5215216,C8210,Vitrectomy,Mr. Chen,Theatre 1,Successful
+2026-01-21,NHS5314077,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-02-16,NHS7402306,C7910,Intravitreal Injection,Mr. Arul,Theatre 2,Successful
+2026-03-03,NHS8350269,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-03-26,NHS4878233,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-01-13,NHS2956132,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-02-20,NHS1129682,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-01-05,NHS1632152,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 1,Successful
+2026-01-05,NHS5708165,C5210,Trabeculectomy,Ms. Benson,Theatre 3,Successful
+2026-02-19,NHS3914239,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-02-24,NHS3683554,C5210,Trabeculectomy,Ms. Benson,Theatre 3,Successful
+2026-03-15,NHS8693687,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-01-17,NHS8722536,C5210,Trabeculectomy,Mr. Arul,Theatre 1,Successful
+2026-01-26,NHS4244295,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 3,Successful
+2026-01-04,NHS4595935,C8210,Vitrectomy,Ms. Davis,Theatre 1,Successful
+2026-03-16,NHS3091901,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-01-01,NHS4092074,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 2,Successful
+2026-03-01,NHS7294106,C5210,Trabeculectomy,Ms. Davis,Theatre 1,Successful
+2026-03-02,NHS9422196,C5210,Trabeculectomy,Ms. Davis,Theatre 3,Successful
+2026-02-17,NHS8896703,C7910,Intravitreal Injection,Mr. Chen,Theatre 2,Successful
+2026-01-16,NHS1950364,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-03-14,NHS4042522,C8210,Vitrectomy,Mr. Chen,Theatre 3,Successful
+2026-02-10,NHS1989054,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Successful
+2026-03-02,NHS4896845,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 3,Successful
+2026-01-01,NHS4400216,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 1,Successful
+2026-02-24,NHS4971821,C7910,Intravitreal Injection,Ms. Benson,Theatre 3,Successful
+2026-03-16,NHS1801828,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-02-19,NHS2999926,C7910,Intravitreal Injection,Mr. Chen,Theatre 3,Complication - Repositional needed
+2026-02-28,NHS4328766,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-01-21,NHS1625689,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-01-09,NHS4022798,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-03-27,NHS1625689,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-03-12,NHS7905137,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 1,Successful
+2026-02-14,NHS1301806,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 3,Successful
+2026-02-11,NHS2967129,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-03-20,NHS9902826,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-01-22,NHS6195875,C7910,Intravitreal Injection,Mr. Chen,Theatre 1,Successful
+2026-03-19,NHS9860901,C5210,Trabeculectomy,Ms. Davis,Theatre 3,Successful
+2026-03-15,NHS9232636,C8210,Vitrectomy,Mr. Chen,Theatre 2,Successful
+2026-01-20,NHS8110489,C5210,Trabeculectomy,Ms. Davis,Theatre 1,Successful
+2026-01-27,NHS2083575,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-03-29,NHS1085623,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 2,Successful
+2026-02-14,NHS8236825,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-01-18,NHS4714633,C8210,Vitrectomy,Ms. Benson,Theatre 2,Successful
+2026-03-20,NHS1525056,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-02-20,NHS7155301,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-02-07,NHS4878233,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 1,Successful
+2026-01-27,NHS6432319,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-01-06,NHS4682267,C8210,Vitrectomy,Mr. Chen,Theatre 2,Successful
+2026-02-18,NHS6000570,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-03-21,NHS9580303,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 3,Successful
+2026-01-17,NHS9452810,C8210,Vitrectomy,Ms. Benson,Theatre 3,Successful
+2026-01-23,NHS9629930,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 1,Successful
+2026-02-19,NHS6992337,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-03-02,NHS8186850,C5210,Trabeculectomy,Ms. Benson,Theatre 3,Successful
+2026-01-29,NHS1533235,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-01-21,NHS3751970,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-02-22,NHS2872825,C5210,Trabeculectomy,Ms. Davis,Theatre 1,Successful
+2026-03-06,NHS3102038,C7910,Intravitreal Injection,Ms. Benson,Theatre 1,Successful
+2026-03-24,NHS8125081,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 2,Successful
+2026-03-06,NHS7895302,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-03-19,NHS1525056,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-02-20,NHS3202518,C5210,Trabeculectomy,Mr. Chen,Theatre 3,Successful
+2026-03-24,NHS6922435,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 3,Successful
+2026-03-13,NHS2336663,C8210,Vitrectomy,Ms. Benson,Theatre 2,Successful
+2026-03-24,NHS7647640,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-02-27,NHS5338158,C7910,Intravitreal Injection,Mr. Chen,Theatre 2,Successful
+2026-01-15,NHS1632152,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-01-07,NHS4034380,C8210,Vitrectomy,Ms. Benson,Theatre 3,Successful
+2026-01-06,NHS1940071,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-03-19,NHS1801828,C7910,Intravitreal Injection,Ms. Benson,Theatre 3,Successful
+2026-01-31,NHS4034380,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-03-23,NHS2083575,C7910,Intravitreal Injection,Mr. Chen,Theatre 2,Successful
+2026-02-09,NHS8791507,C8210,Vitrectomy,Ms. Benson,Theatre 3,Successful
+2026-02-27,NHS4072687,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-01-05,NHS9467754,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-02-23,NHS1625689,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-02-13,NHS3773298,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 3,Successful
+2026-03-16,NHS2970222,C5210,Trabeculectomy,Mr. Arul,Theatre 1,Successful
+2026-03-18,NHS5654247,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-02-20,NHS7890403,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-03-05,NHS4072687,C5210,Trabeculectomy,Mr. Chen,Theatre 3,Complication - Repositional needed
+2026-01-04,NHS3134625,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 3,Successful
+2026-01-10,NHS8032005,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-03-22,NHS6507619,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-01-30,NHS7095235,C5210,Trabeculectomy,Mr. Arul,Theatre 3,Successful
+2026-01-06,NHS9358027,C8210,Vitrectomy,Mr. Chen,Theatre 2,Successful
+2026-01-24,NHS3673140,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-01-13,NHS4312766,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 1,Successful
+2026-03-25,NHS2956132,C8210,Vitrectomy,Mr. Arul,Theatre 1,Successful
+2026-01-01,NHS5106622,C8210,Vitrectomy,Ms. Davis,Theatre 2,Successful
+2026-01-15,NHS2503598,C5210,Trabeculectomy,Ms. Benson,Theatre 1,Successful
+2026-02-14,NHS3501447,C8210,Vitrectomy,Ms. Benson,Theatre 3,Successful
+2026-03-11,NHS2336663,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 3,Successful
+2026-02-24,NHS8721497,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 2,Successful
+2026-01-26,NHS8787711,C5210,Trabeculectomy,Ms. Davis,Theatre 3,Successful
+2026-01-30,NHS9751214,C7910,Intravitreal Injection,Mr. Arul,Theatre 3,Successful
+2026-01-21,NHS6846310,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-02-18,NHS2551461,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-03-12,NHS1398706,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 3,Successful
+2026-01-16,NHS3773298,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 2,Successful
+2026-03-22,NHS9570973,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-02-03,NHS4414486,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-03-18,NHS5129236,C8210,Vitrectomy,Mr. Chen,Theatre 1,Successful
+2026-03-31,NHS4728703,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-01-05,NHS7905137,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-03-11,NHS6354772,C5210,Trabeculectomy,Mr. Arul,Theatre 2,Successful
+2026-01-27,NHS4008498,C7910,Intravitreal Injection,Mr. Arul,Theatre 3,Successful
+2026-02-12,NHS9650980,C5210,Trabeculectomy,Ms. Davis,Theatre 3,Successful
+2026-03-13,NHS8491720,C8210,Vitrectomy,Ms. Benson,Theatre 3,Successful
+2026-02-24,NHS3960861,C5210,Trabeculectomy,Ms. Davis,Theatre 3,Successful
+2026-02-20,NHS6930512,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 3,Successful
+2026-01-28,NHS7155434,C8210,Vitrectomy,Mr. Arul,Theatre 1,Successful
+2026-01-09,NHS7173490,C7910,Intravitreal Injection,Mr. Arul,Theatre 2,Successful
+2026-02-28,NHS7031304,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-02-25,NHS5129236,C5210,Trabeculectomy,Mr. Arul,Theatre 3,Successful
+2026-03-16,NHS8491720,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-03-04,NHS3635448,C7910,Intravitreal Injection,Mr. Chen,Theatre 1,Successful
+2026-03-23,NHS8434788,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-02-19,NHS3213734,C5210,Trabeculectomy,Ms. Davis,Theatre 1,Successful
+2026-03-31,NHS5646772,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-03-17,NHS8309879,C8210,Vitrectomy,Mr. Chen,Theatre 1,Successful
+2026-01-01,NHS3485341,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 1,Successful
+2026-01-15,NHS2933243,C8210,Vitrectomy,Ms. Davis,Theatre 1,Successful
+2026-03-28,NHS8125081,C5210,Trabeculectomy,Mr. Arul,Theatre 3,Successful
+2026-03-01,NHS6420394,C8210,Vitrectomy,Mr. Chen,Theatre 1,Successful
+2026-02-08,NHS2341269,C5210,Trabeculectomy,Ms. Davis,Theatre 3,Successful
+2026-03-03,NHS3409465,C8210,Vitrectomy,Mr. Chen,Theatre 3,Successful
+2026-02-22,NHS4531538,C7910,Intravitreal Injection,Mr. Arul,Theatre 3,Successful
+2026-01-18,NHS4682267,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 3,Successful
+2026-03-14,NHS3194456,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-02-18,NHS5941792,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-03-27,NHS8233519,C8210,Vitrectomy,Ms. Benson,Theatre 2,Successful
+2026-03-04,NHS4896845,C7910,Intravitreal Injection,Mr. Chen,Theatre 1,Successful
+2026-01-05,NHS5317054,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 3,Successful
+2026-02-19,NHS2945506,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Successful
+2026-03-12,NHS4081179,C5210,Trabeculectomy,Ms. Davis,Theatre 2,Successful
+2026-01-21,NHS9345240,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-02-12,NHS5708165,C8210,Vitrectomy,Ms. Benson,Theatre 2,Successful
+2026-01-26,NHS9762198,C7910,Intravitreal Injection,Ms. Benson,Theatre 3,Successful
+2026-01-11,NHS1905751,C8210,Vitrectomy,Mr. Arul,Theatre 1,Successful
+2026-01-28,NHS5571607,C8210,Vitrectomy,Ms. Benson,Theatre 2,Successful
+2026-01-03,NHS2382255,C8210,Vitrectomy,Mr. Chen,Theatre 3,Successful
+2026-01-26,NHS9467754,C5210,Trabeculectomy,Mr. Arul,Theatre 2,Successful
+2026-02-02,NHS3409465,C8210,Vitrectomy,Mr. Chen,Theatre 1,Successful
+2026-01-08,NHS7596784,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 1,Successful
+2026-01-07,NHS4414486,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 1,Successful
+2026-02-08,NHS3010587,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 1,Successful
+2026-03-05,NHS4019652,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-03-15,NHS8882664,C8210,Vitrectomy,Ms. Benson,Theatre 1,Successful
+2026-03-17,NHS5476147,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-01-23,NHS9275711,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-03-15,NHS8876991,C8210,Vitrectomy,Ms. Benson,Theatre 3,Successful
+2026-03-02,NHS1130134,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Successful
+2026-03-02,NHS9974964,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 3,Successful
+2026-03-31,NHS8110489,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 1,Successful
+2026-01-13,NHS1825740,C5210,Trabeculectomy,Mr. Arul,Theatre 3,Successful
+2026-03-06,NHS9084476,C7910,Intravitreal Injection,Mr. Arul,Theatre 2,Successful
+2026-02-27,NHS4714633,C8210,Vitrectomy,Ms. Benson,Theatre 1,Successful
+2026-01-16,NHS7095766,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Successful
+2026-03-15,NHS8722536,C5210,Trabeculectomy,Ms. Davis,Theatre 2,Complication - Repositional needed
+2026-01-01,NHS8882664,C7910,Intravitreal Injection,Ms. Benson,Theatre 1,Successful
+2026-03-01,NHS1037339,C8210,Vitrectomy,Ms. Benson,Theatre 3,Successful
+2026-01-10,NHS2956132,C8210,Vitrectomy,Ms. Davis,Theatre 1,Successful
+2026-01-29,NHS4244295,C7910,Intravitreal Injection,Ms. Benson,Theatre 3,Successful
+2026-03-04,NHS8761838,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Successful
+2026-02-15,NHS3953787,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-02-20,NHS7245553,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-03-03,NHS4987393,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 1,Successful
+2026-02-28,NHS2132120,C5210,Trabeculectomy,Mr. Arul,Theatre 1,Successful
+2026-01-07,NHS5576187,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-01-28,NHS5441602,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-01-28,NHS1256653,C8210,Vitrectomy,Mr. Arul,Theatre 2,Successful
+2026-01-27,NHS7621764,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 1,Successful
+2026-01-24,NHS3400705,C5210,Trabeculectomy,Ms. Davis,Theatre 1,Successful
+2026-02-21,NHS6943394,C7910,Intravitreal Injection,Mr. Chen,Theatre 1,Successful
+2026-02-05,NHS8896703,C7910,Intravitreal Injection,Mr. Chen,Theatre 1,Successful
+2026-03-31,NHS3199989,C5210,Trabeculectomy,Mr. Arul,Theatre 3,Successful
+2026-01-22,NHS3409465,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-03-12,NHS6177963,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 3,Successful
+2026-03-06,NHS4705502,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-01-17,NHS9699653,C5210,Trabeculectomy,Mr. Chen,Theatre 1,Successful
+2026-03-09,NHS3362139,C8210,Vitrectomy,Ms. Benson,Theatre 3,Successful
+2026-03-01,NHS2598355,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 3,Successful
+2026-02-01,NHS1797696,C7910,Intravitreal Injection,Mr. Arul,Theatre 2,Successful
+2026-03-16,NHS6000570,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-01-15,NHS6657401,C7910,Intravitreal Injection,Mr. Chen,Theatre 1,Successful
+2026-02-10,NHS8034790,C8210,Vitrectomy,Ms. Benson,Theatre 2,Successful
+2026-02-12,NHS8130166,C5210,Trabeculectomy,Mr. Arul,Theatre 2,Successful
+2026-01-23,NHS9262056,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-01-06,NHS7291170,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 2,Successful
+2026-01-28,NHS2416540,C7910,Intravitreal Injection,Ms. Davis,Theatre 1,Successful
+2026-02-09,NHS8133982,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 1,Successful
+2026-03-10,NHS8691353,C7910,Intravitreal Injection,Mr. Arul,Theatre 2,Successful
+2026-01-03,NHS1869528,C7910,Intravitreal Injection,Ms. Benson,Theatre 1,Successful
+2026-02-01,NHS6019155,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-01-25,NHS8110489,C8210,Vitrectomy,Ms. Benson,Theatre 2,Successful
+2026-03-30,NHS7905137,C5210,Trabeculectomy,Ms. Benson,Theatre 3,Successful
+2026-02-20,NHS7027859,C8210,Vitrectomy,Mr. Chen,Theatre 1,Successful
+2026-02-23,NHS4145418,C7910,Intravitreal Injection,Mr. Chen,Theatre 2,Successful
+2026-03-04,NHS8609414,C8210,Vitrectomy,Mr. Arul,Theatre 1,Successful
+2026-01-31,NHS1869528,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-03-07,NHS6160838,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-02-24,NHS5639728,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-03-14,NHS5951689,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-01-05,NHS9016309,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 1,Successful
+2026-01-28,NHS6358545,C8210,Vitrectomy,Ms. Benson,Theatre 2,Successful
+2026-03-18,NHS1109530,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful
+2026-02-08,NHS1271015,C5210,Trabeculectomy,Mr. Chen,Theatre 2,Successful
+2026-02-08,NHS6706451,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 1,Successful
+2026-02-03,NHS6754967,C7910,Intravitreal Injection,Ms. Benson,Theatre 2,Successful
+2026-02-06,NHS8791507,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-02-20,NHS1124825,C5210,Trabeculectomy,Ms. Davis,Theatre 1,Successful
+2026-03-25,NHS4842252,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-01-23,NHS2369218,C8210,Vitrectomy,Mr. Arul,Theatre 3,Successful
+2026-03-19,NHS3501447,C8210,Vitrectomy,Mr. Arul,Theatre 1,Successful
+2026-03-27,NHS9719398,C8210,Vitrectomy,Mr. Chen,Theatre 3,Successful
+2026-03-27,NHS5836522,C5210,Trabeculectomy,Mr. Arul,Theatre 1,Successful
+2026-02-17,NHS9422196,C7910,Intravitreal Injection,Mr. Chen,Theatre 1,Complication - Repositional needed
+2026-02-02,NHS8504144,C7910,Intravitreal Injection,Mr. Chen,Theatre 1,Successful
+2026-03-15,NHS4197174,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-01-20,NHS9631070,C7910,Intravitreal Injection,Mr. Chen,Theatre 2,Successful
+2026-02-19,NHS6651359,C5210,Trabeculectomy,Mr. Arul,Theatre 3,Successful
+2026-02-04,NHS8681144,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 3,Successful
+2026-01-13,NHS4714633,C5210,Trabeculectomy,Mr. Arul,Theatre 2,Successful
+2026-03-13,NHS3870567,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 1,Successful
+2026-03-14,NHS1786750,C5210,Trabeculectomy,Ms. Davis,Theatre 2,Successful
+2026-03-10,NHS5901503,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-03-08,NHS3041350,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 1,Successful
+2026-01-24,NHS9484250,C8210,Vitrectomy,Ms. Davis,Theatre 3,Successful
+2026-02-24,NHS2625569,C7910,Intravitreal Injection,Mr. Arul,Theatre 1,Successful
+2026-02-22,NHS6706272,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-03-02,NHS2254278,C5210,Trabeculectomy,Ms. Benson,Theatre 2,Successful
+2026-03-25,NHS2331639,C8210,Vitrectomy,Ms. Benson,Theatre 1,Successful
+2026-01-11,NHS2363080,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 1,Successful
+2026-02-05,NHS3359554,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-01-26,NHS9789884,C1210,Phacoemulsification of lens (Cataract),Ms. Davis,Theatre 2,Successful
+2026-01-06,NHS2999926,C8210,Vitrectomy,Ms. Davis,Theatre 1,Successful
+2026-03-20,NHS9190784,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 1,Successful
+2026-03-14,NHS1137733,C5210,Trabeculectomy,Mr. Chen,Theatre 3,Successful
+2026-02-27,NHS5247415,C7910,Intravitreal Injection,Mr. Arul,Theatre 3,Successful
+2026-02-13,NHS6826144,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 2,Successful
+2026-03-04,NHS6699424,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-01-13,NHS7171990,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 2,Successful
+2026-03-21,NHS1277957,C7910,Intravitreal Injection,Mr. Chen,Theatre 2,Successful
+2026-01-06,NHS3202518,C1210,Phacoemulsification of lens (Cataract),Ms. Benson,Theatre 1,Successful
+2026-01-30,NHS9146783,C1210,Phacoemulsification of lens (Cataract),Mr. Chen,Theatre 2,Successful
+2026-03-14,NHS8901944,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 1,Successful
+2026-01-18,NHS3729418,C1210,Phacoemulsification of lens (Cataract),Mr. Arul,Theatre 1,Successful
+2026-02-13,NHS4763175,C7910,Intravitreal Injection,Mr. Chen,Theatre 1,Successful
+2026-01-10,NHS5675437,C7910,Intravitreal Injection,Ms. Davis,Theatre 2,Successful
+2026-02-10,NHS8434788,C5210,Trabeculectomy,Mr. Chen,Theatre 3,Successful
+2026-01-26,NHS2011237,C7910,Intravitreal Injection,Ms. Davis,Theatre 3,Successful

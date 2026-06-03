@@ -1,0 +1,53 @@
+# INCIDENT INVESTIGATION REPORT: SERIOUS INCIDENT (SI)
+**Case Reference:** 2025/14292
+**Incident Date:** 14th November 2025
+**Reporting Date:** 15th November 2025
+**Location:** Glaucoma Outpatients, Bristol Eye Hospital
+**Subject:** Significant vision loss due to delayed follow-up (6-month breach)
+
+## 1. Executive Summary
+A 72-year-old male patient with advanced primary open-angle glaucoma (POAG) was scheduled for a 4-month follow-up in May 2025. Due to clinic capacity constraints and an administrative error in the waiting list management, the patient was not seen until November 2025. Upon review, the patient showed significant progression of visual field loss in the left eye, which is now permanent.
+
+## 2. Chronology of Events
+* **Jan 2025:** Patient seen in clinic. Plan: Follow-up 4 months with OCT and Visual Fields (VF).
+* **May 2025:** Follow-up target date. No appointment sent.
+* **July 2025:** Patient called the booking office. Logged as "Query" but no action taken to escalate.
+* **Sept 2025:** System auto-generated a 52-week warning for RTT, but this was a follow-up, so it didn't trigger the same escalation as a new referral.
+* **Nov 2025:** Patient seen after a cancellation slot became available. Significant field loss confirmed.
+
+## 3. Root Cause Analysis (RCA)
+* **Direct Cause:** Failure to schedule a timely follow-up appointment for a high-risk patient.
+* **Contributory Factors:**
+    * **Capacity:** Glaucoma follow-up backlog currently exceeds 1,200 patients.
+    * **Administrative:** Error in the Medisoft-to-PAS data transfer meant the 'Target Date' was incorrectly recorded as Nov 2025 instead of May 2025.
+    * **Staffing:** Sickness in the booking team resulted in a 3-week backlog of patient queries.
+
+## 4. Duty of Candour
+The patient and his family were met on 16th November 2025 by Mr. Arul (Consultant). A formal apology was provided, and the investigation process was explained.
+
+## 5. Action Plan
+1. **Immediate:** Validate all high-risk glaucoma patients on the waiting list with a target date > 3 months overdue. (Lead: Service Manager)
+2. **Systemic:** Implement a "Red Flag" tracker for glaucoma patients with advanced disease to ensure they cannot be cancelled or delayed without consultant sign-off. (Lead: Clinical Lead)
+3. **Training:** Refresher training for booking clerks on Medisoft target date entry. (Lead: Admin Lead)
+
+---
+
+# INCIDENT INVESTIGATION REPORT: NEAR MISS
+**Case Reference:** NM/2026/004
+**Incident Date:** 12th February 2026
+**Location:** Theatre 2, Day Surgery Unit
+**Subject:** Intraocular Lens (IOL) Selection Error (Corrected before implantation)
+
+## 1. Summary
+During a routine cataract procedure, the incorrect IOL power was brought to the surgical field. The error was identified during the "Time Out" phase of the WHO Surgical Safety Checklist.
+
+## 2. Investigation
+The surgeon requested a +21.0D lens. The circulator retrieved a +12.0D lens from the store. The error was due to the similarity in packaging and the boxes being stocked in the wrong bin.
+
+## 3. Root Cause
+* **Human Factor:** Interruption during lens retrieval by a phone call to the theatre.
+* **Environmental:** Poor lighting in the lens storage cupboard.
+
+## 4. Actions
+1. Re-organise IOL storage by power increments with clear signage.
+2. Mandate "Silent Retrieval" policy for IOLs—no interruptions allowed.

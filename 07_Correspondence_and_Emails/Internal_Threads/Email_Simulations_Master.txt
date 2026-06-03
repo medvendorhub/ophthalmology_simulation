@@ -1,0 +1,107 @@
+## THREAD 1: Glaucoma Backlog Escalation
+**From:** [User Name] (Service Manager)
+**To:** Mr. Arul (Clinical Director)
+**Subject:** URGENT: Glaucoma Follow-up Backlog - Risk Score 20
+**Date:** 02 March 2026 | 09:15
+
+Arul,
+Following the Governance minutes from Feb, the backlog for Glaucoma has now hit 1,248. Specifically, we have 178 patients over 6 months overdue, and 85 of those are 'High Risk'. 
+Given the SI we just investigated (2025/14292), I’m very concerned about the clinical safety of this list. We need to sign off on the evening WLI clinics immediately. I’ve modelled the cost at £4,200 per session. 
+Best, [User Name]
+
+---
+**From:** Mr. Arul (Clinical Director)
+**Date:** 03 March 2026 | 08:42
+
+[User Name],
+I share the concern, but we’ve already blown the locum budget for Q4 (as per Finance’s last email). Have we looked at shifting the stable patients to the virtual model first? Benson mentioned the virtual clinic is only at 70% utilization because we’re short of technicians. 
+Arul
+
+---
+**From:** [User Name] (Service Manager)
+**Date:** 03 March 2026 | 14:20
+
+The virtual model is stuck because of the nursing sickness and the 1.0 WTE technician vacancy. Even if we move them to virtual, there’s no one to run the OCTs. 
+The 85 high-risk patients can't go virtual anyway—they need a face-to-face slit lamp exam. Can we reallocate the 'Cataract WLI' funds to Glaucoma?
+
+---
+**From:** Mr. Arul (Clinical Director)
+**Date:** 06 March 2026 | 10:05
+
+If we pull the Cataract WLI, our 18-week RTT compliance will tank further (it's already at 88.5%). We're stuck between a safety risk and a performance breach. Let's discuss at the Board meeting on Tuesday. Bring the data on the 85 high-risk cases.
+
+---
+
+## THREAD 2: Injection Clinic Staffing Friction
+**From:** Sr. Thompson (Matron)
+**To:** [User Name] (Service Manager); Nursing Lead
+**Subject:** Injection Clinic Pressures - Medisoft Entry Compliance
+**Date:** 10 Feb 2026 | 16:30
+
+We need to talk about the MR clinics. The safety audit shows only 78% same-day data entry. My nurses are exhausted—they are running 30-patient lists with only 2 injectors. Something has to give. We can't keep doing the data entry at home or after the shift.
+
+---
+**From:** Nursing Lead
+**Date:** 11 Feb 2026 | 09:12
+
+I agree with Thompson. The volume of anti-VEGF is up 20% this year. We should stop the VA/IOP checks for stable patients to save time. 
+
+---
+**From:** [User Name] (Service Manager)
+**Date:** 11 Feb 2026 | 11:45
+
+Stopping VA/IOP checks is a non-starter; it's a NICE requirement for the drug reimbursement (TA155). If we don't record the VA, we don't get paid for the drug. 
+Can we use a clerical 'Runner' to handle the Medisoft entry instead of the nurses?
+
+---
+**From:** Sr. Thompson (Matron)
+**Date:** 12 Feb 2026 | 08:00
+
+A runner won't help if the Medisoft system keeps lagging like it did yesterday. Plus, where is the budget for a runner? We're already overspent on agency. We need to reduce the list size to 24 per session.
+
+---
+**From:** [User Name] (Service Manager)
+**Date:** 12 Feb 2026 | 15:30
+
+Reducing to 24 will create a massive RTT breach in Medical Retina. Let me see if I can find some underspend in 'Consumables' to fund a temporary admin support.
+
+---
+
+## THREAD 3: Urgent Theatre Request
+**From:** General Manager (Surgery)
+**To:** [User Name] (Service Manager)
+**Subject:** URGENT: Board Paper - Theatre Utilisation
+**Date:** 25 March 2026 | 11:20
+
+[User Name], I need the Q1 theatre utilisation breakdown by surgeon for the Board paper by 4pm today. GM wants to know why Ophth is the lowest in the Trust at 72%. I've seen the raw tracker but need the 'Reason for Downtime' analysis.
+
+---
+**From:** [User Name] (Service Manager)
+**Date:** 25 March 2026 | 12:05
+
+I'm in a clinic review. I'll pull it from the Q1 Tracker. Note that the 72% was skewed by the Feb 'Equipment Failure' week in Theatre 2. I'll highlight that.
+
+---
+
+## THREAD 4: Cataract Pathway Redesign (Unresolved)
+**From:** Mr. Chen (Consultant)
+**To:** [User Name] (Service Manager)
+**Subject:** Proposal: Optometrist-led Cataract Pre-assessment
+**Date:** 15 Jan 2026 | 09:00
+
+We are wasting too much consultant time in pre-assessment. I propose we shift all routine pre-ops to the community optometrists. It would free up 2 consultant sessions a week for theatres. Thoughts?
+
+---
+**From:** [User Name] (Service Manager)
+**Date:** 18 Jan 2026 | 10:30
+
+Interesting idea. What about the quality control? We've had issues with community referrals missing the biometry data in the past. 
+
+---
+**From:** Mr. Chen (Consultant)
+**Date:** 20 Jan 2026 | 14:00
+
+We'd need a clear SOP. I can draft one. Benson is also keen. Let's set up a working group?
+
+---
+*(No further replies)*

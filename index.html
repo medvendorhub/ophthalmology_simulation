@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ophthalmology Service Line Simulation - Project Atlas</title>
+    <style>
+        :root {
+            --primary: #1F4E78;
+            --secondary: #2C7A7B;
+            --light-bg: #F7FAFC;
+            --border: #E2E8F0;
+            --text-main: #2D3748;
+            --text-muted: #718096;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-main);
+            background-color: var(--light-bg);
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: var(--primary);
+            color: white;
+            padding: 3rem 2rem;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0 0 1rem 0;
+            font-size: 2.5rem;
+        }
+
+        header p {
+            font-size: 1.2rem;
+            max-width: 800px;
+            margin: 0 auto;
+            opacity: 0.9;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 2rem;
+        }
+
+        section {
+            background: white;
+            border-radius: 8px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+        }
+
+        h2 {
+            color: var(--primary);
+            border-bottom: 2px solid var(--border);
+            padding-bottom: 0.5rem;
+            margin-top: 0;
+        }
+
+        h3 {
+            color: var(--secondary);
+        }
+
+        /* Folder Tree Styles */
+        .tree-view {
+            font-family: monospace;
+            background: var(--light-bg);
+            padding: 1rem;
+            border-radius: 4px;
+            overflow-x: auto;
+            border: 1px solid var(--border);
+        }
+
+        .folder { font-weight: bold; color: var(--primary); }
+        .file { color: var(--text-muted); }
+
+        /* Task Cards */
+        .task-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .task-card {
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 1.5rem;
+            background: white;
+            transition: transform 0.2s;
+        }
+
+        .task-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .task-tag {
+            display: inline-block;
+            background: var(--secondary);
+            color: white;
+            padding: 0.2rem 0.6rem;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            margin-bottom: 1rem;
+        }
+
+        /* Expandable Rubric */
+        details {
+            background: var(--light-bg);
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            padding: 0.5rem;
+            margin-top: 1rem;
+        }
+
+        summary {
+            font-weight: bold;
+            cursor: pointer;
+            color: var(--primary);
+        }
+
+        details p {
+            margin-top: 1rem;
+            padding-left: 1rem;
+            font-size: 0.95rem;
+            border-left: 3px solid var(--secondary);
+        }
+
+        /* About Author */
+        .author-box {
+            display: flex;
+            align-items: center;
+            gap: 2rem;
+            background: #EBF8FF;
+            border: 1px solid #B2F5EA;
+        }
+        
+        .author-content h3 {
+            margin-top: 0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 1rem;
+        }
+
+        th, td {
+            padding: 0.75rem;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+
+        th {
+            background-color: var(--light-bg);
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Ophthalmology Service Line Operations World</h1>
+        <p>A high-fidelity simulated digital workspace designed to evaluate the reasoning, data synthesis, and operational judgement of frontier AI agents in complex healthcare environments.</p>
+    </header>
+
+    <div class="container">
+        
+        <section id="philosophy">
+            <h2>Why This World Is Challenging</h2>
+            <p>Real hospital operations are not run on perfectly curated JSON datasets. They are run on a mix of polished board reports, messy Excel spreadsheets, raw PAS system exports, and tense email threads. This simulation captures the "lived-in" friction of a real NHS Ophthalmology Service Line.</p>
+            <ul>
+                <li><strong>Ambiguity & Conflict:</strong> Emails contain disagreements between clinical and nursing leads. The AI must infer intent, gauge urgency, and navigate professional politics.</li>
+                <li><strong>Cross-Referencing:</strong> No task can be answered from a single file. An agent must match an incident report narrative with a raw appointment CSV, and then cross-reference that with a nursing roster to prove causality.</li>
+                <li><strong>Operational Reality:</strong> The data includes deliberate anomalies—staff sickness spikes causing capacity drops, data transfer errors creating "hidden" risk, and the rigid constraints of NICE guidelines (e.g., TA155 for anti-VEGF).</li>
+                <li><strong>The Domain Barrier:</strong> It requires understanding niche terminology—knowing the difference between a New and Follow-up RTT pathway, or why Biometry is a bottleneck for Cataract lists.</li>
+            </ul>
+        </section>
+
+        <section id="architecture">
+            <h2>Workspace Architecture</h2>
+            <p>A realistic Google Drive hierarchy containing 40 interrelated documents spanning performance, quality, finance, and raw data exports.</p>
+            
+            <div class="tree-view">
+Ophthalmology_Service_Line_Operations/
+├── <span class="folder">01_Performance_Reporting/</span>
+│   ├── Monthly_Perf_Summary_Apr26.xlsx <span class="file">(Master dashboard with intentional RTT drops)</span>
+│   └── Theatre_Util_Tracker_Q1.xlsx <span class="file">(Session efficiency data)</span>
+├── <span class="folder">02_Quality_and_Safety/</span>
+│   ├── SI_Delayed_Glaucoma_v2.docx <span class="file">(Serious Incident investigation)</span>
+│   ├── Audit_Glaucoma_Overdue_2026.pdf <span class="file">(Backlog data showing 1,248 overdue)</span>
+│   └── Governance_Minutes_Feb26.docx <span class="file">(Committee discussions)</span>
+├── <span class="folder">03_Finance_and_Budget/</span>
+│   └── Budget_Variance_M11.xlsx <span class="file">(Highlights locum overspend)</span>
+├── <span class="folder">04_Workforce_and_Staffing/</span>
+│   └── Nursing_Roster_May26.xlsx <span class="file">(Includes sickness anomaly data)</span>
+├── <span class="folder">05_Service_Improvement_and_Pathways/</span>
+│   └── Ophth_Policies_and_Protocols.docx <span class="file">(Clinical rules & escalation limits)</span>
+├── <span class="folder">06_Clinical_System_Exports/</span>
+│   ├── EPR_Appts_Apr26.csv <span class="file">(5,200+ raw PAS appointments)</span>
+│   └── Medisoft_Theatre_Log_Mar26.csv <span class="file">(850 surgical procedures)</span>
+└── <span class="folder">07_Correspondence_and_Emails/</span>
+    └── Email_Simulations_Master.txt <span class="file">(4 threads containing urgency & conflict)</span>
+            </div>
+        </section>
+
+        <section id="tasks">
+            <h2>Evaluation Tasks</h2>
+            <div class="task-grid">
+                
+                <div class="task-card">
+                    <span class="task-tag">Clinical Quality</span>
+                    <h3>Task 1: Incident Root Cause</h3>
+                    <p><strong>Scenario:</strong> Investigate a Serious Incident involving vision loss due to a 6-month glaucoma follow-up delay.</p>
+                    <p><strong>Challenge:</strong> Correlate the narrative SI report with 5,200 rows of raw PAS data and historical nursing rosters to prove that staffing gaps worsened the backlog on specific dates.</p>
+                    <details>
+                        <summary>View Grading Rubric</summary>
+                        <p>✓ Identifies 85 high-risk patients from the audit.<br>
+                           ✓ Correlates 2 specific sickness dates with low theatre utilization.<br>
+                           ✓ Spots the systemic Medisoft-to-PAS data transfer error.</p>
+                    </details>
+                </div>
+
+                <div class="task-card">
+                    <span class="task-tag">Financial</span>
+                    <h3>Task 2: Budget Variance Deep Dive</h3>
+                    <p><strong>Scenario:</strong> Finance has flagged a £35k overspend in Medical Locums. Explain the operational driver.</p>
+                    <p><strong>Challenge:</strong> Agents must notice that despite the high locum spend to "cover the backlog," the actual RTT performance dropped to 90.2%—requiring them to critique the data, not just report it.</p>
+                    <details>
+                        <summary>View Grading Rubric</summary>
+                        <p>✓ Identifies £35k locum overspend.<br>
+                           ✓ Connects spend to RTT backlog recovery efforts.<br>
+                           ✓ Critiques the outcome by noting the RTT compliance drop.</p>
+                    </details>
+                </div>
+
+                <div class="task-card">
+                    <span class="task-tag">Workforce</span>
+                    <h3>Task 3: Nursing Crisis Response</h3>
+                    <p><strong>Scenario:</strong> The Matron is demanding an end to pre-injection VA checks due to severe clinic pressure and poor Medisoft data entry compliance.</p>
+                    <p><strong>Challenge:</strong> The agent must synthesize audit data (78% compliance), recognize that stopping VA checks violates NICE TA155 reimbursement rules, and propose a data-backed alternative.</p>
+                    <details>
+                        <summary>View Grading Rubric</summary>
+                        <p>✓ Cites 78% audit compliance.<br>
+                           ✓ Rejects stopping VA checks due to TA155 regulations.<br>
+                           ✓ Calculates impact of list reduction vs. hiring an admin runner.</p>
+                    </details>
+                </div>
+
+                <div class="task-card">
+                    <span class="task-tag">Service Improvement</span>
+                    <h3>Task 4: Pathway Redesign Modeling</h3>
+                    <p><strong>Scenario:</strong> Model the impact of shifting Cataract Pre-assessment to community optometrists.</p>
+                    <p><strong>Challenge:</strong> Requires extracting waiting list volumes from raw CSVs, applying average theatre utilization rates, and identifying a "hidden" clinical risk (Biometry data) buried in an SOP.</p>
+                    <details>
+                        <summary>View Grading Rubric</summary>
+                        <p>✓ Calculates waiting list clearance projection.<br>
+                           ✓ Uses correct Theatre Utilization baseline (72%).<br>
+                           ✓ Identifies Biometry data quality as the primary clinical risk.</p>
+                    </details>
+                </div>
+
+                <div class="task-card">
+                    <span class="task-tag">Governance</span>
+                    <h3>Task 5: Board Report Synthesis</h3>
+                    <p><strong>Scenario:</strong> Draft the monthly Integrated Performance Report for the Quality Committee.</p>
+                    <p><strong>Challenge:</strong> A pure "breadth" test. The agent must pull data from 6 different files across 5 folders without hallucinating connections or softening the "Red" risk status of the department.</p>
+                    <details>
+                        <summary>View Grading Rubric</summary>
+                        <p>✓ Accurately matches top 2 Red risks.<br>
+                           ✓ Integrates M11 financial variance.<br>
+                           ✓ Links financial overspend directly to the clinical backlog narrative.</p>
+                    </details>
+                </div>
+
+            </div>
+        </section>
+
+        <section id="about" class="author-box">
+            <div class="author-content">
+                <h3>About the Creator</h3>
+                <p>I am a former <strong>NHS Ophthalmic Technician</strong> with direct clinical experience at Bristol Eye Hospital. My competencies span OCT imaging, fundus photography, and visual field testing, giving me a deep understanding of patient flow across glaucoma, medical retina, and emergency eye care pathways.</p>
+                <p>This project demonstrates my ability to translate lived clinical and operational reality—from RTT compliance pressures to the specific friction points of EPR data entry—into a structured digital environment. I built this simulation to prove that evaluating healthcare AI requires more than generic tasks; it requires the messy, high-stakes context of a real hospital service line.</p>
+            </div>
+        </section>
+
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+# CLINICAL AUDIT REPORT: Glaucoma Follow-up Overdue Backlog
+**Audit Lead:** Ms. Benson (Consultant Ophthalmologist)
+**Date:** 15th January 2026
+**Scope:** All patients on the Glaucoma waiting list with a follow-up date > 4 weeks overdue.
+
+## 1. Background
+NICE Guidelines (NG81) specify monitoring intervals for glaucoma based on risk and progression. Delays in follow-up increase the risk of undetected progression and permanent vision loss.
+
+## 2. Findings
+* **Total Patients Overdue:** 1,248
+* **Wait Banding:**
+    * 4–12 weeks overdue: 650 (52%)
+    * 12–24 weeks overdue: 420 (34%)
+    * > 24 weeks overdue: 178 (14%)
+* **High-Risk Subset:** 85 patients in the >24 weeks overdue band have "Advanced POAG" or "Complex Glaucoma" status.
+* **Clinic Capacity:** The department is currently operating at 85% of required follow-up capacity due to a 2.0 WTE Consultant vacancy.
+
+## 3. Key Issues Identified
+1. **Capacity/Demand Mismatch:** The current clinic template cannot clear the backlog without additional evening/weekend sessions.
+2. **Outcome Lag:** Patients are being "discharged" to virtual clinics but are not being booked into the virtual slots for up to 3 months.
+3. **Data Quality:** 12% of overdue patients have already been seen in a different clinic (e.g., General) but the follow-up request was not closed.
+
+## 4. Recommendations
+1. **Risk Stratification:** Clinically review the >24 week backlog within 14 days.
+2. **Virtual Expansion:** Increase Virtual Glaucoma Clinic capacity by 4 sessions per week (requiring 1.0 WTE Technician).
+3. **Outsourcing:** Consider temporary outsourcing to private providers (e.g., Newmedica/SpaMedica) for stable patients to free up core capacity.

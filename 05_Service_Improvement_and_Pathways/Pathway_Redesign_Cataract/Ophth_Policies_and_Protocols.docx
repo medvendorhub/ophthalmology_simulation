@@ -1,0 +1,69 @@
+# STANDARD OPERATING PROCEDURE (SOP): Glaucoma Referral and Monitoring Pathway
+**Document ID:** OP-PATH-04
+**Version:** 3.1
+**Owner:** Glaucoma Clinical Lead
+**Last Review:** Oct 2025 | **Next Review:** Oct 2027
+
+## 1. Scope
+This pathway applies to all adult patients referred with suspected or confirmed Glaucoma or Ocular Hypertension (OHT) at Bristol Eye Hospital.
+
+## 2. Referral Management
+* **Urgent (1-2 weeks):** IOP > 32mmHg, suspected acute angle closure, or rapid field loss.
+* **Routine (18 weeks):** Suspected POAG or OHT not meeting urgent criteria.
+
+## 3. Monitoring Intervals (NICE NG81)
+| Patient Risk Category | IOP Frequency | VF / OCT Frequency |
+| :--- | :--- | :--- |
+| **Low Risk (Stable)** | 12 months | 12-24 months |
+| **Medium Risk** | 6 months | 6-12 months |
+| **High Risk (Advanced)** | 2-4 months | 4-6 months |
+
+## 4. Virtual Clinic Eligibility
+Patients may be transitioned to the **Glaucoma Virtual Clinic** if they meet the following criteria:
+1. Stable disease for > 2 consecutive visits.
+2. IOP controlled within target range.
+3. Patient able to perform reliable visual fields.
+*Note: High-risk/Advanced patients are NOT eligible for virtual monitoring.*
+
+---
+
+# STANDARD OPERATING PROCEDURE: Anti-VEGF Injection Clinic (Medical Retina)
+**Document ID:** OP-SOP-12
+**Version:** 4.0
+**Owner:** MR Nursing Lead
+
+## 1. Treatment Protocols
+* **Aflibercept (Eylea):** Initial loading dose (3 injections) followed by Treat & Extend or Fixed Interval.
+* **Ranibizumab (Lucentis):** Monthly PRN or Treat & Extend.
+
+## 2. Clinic Flow & Data Entry
+* Patients must have visual acuity (VA) and IOP checked pre-injection.
+* **MANDATORY:** All injections must be recorded in Medisoft *before* the patient leaves the clinic. 
+* *Correction 2026:* If Medisoft is unavailable, a paper "Injection Log" must be completed and entered by the end of the shift.
+
+---
+
+# POLICY: Capacity Escalation Protocol (Ophthalmology)
+**Document ID:** OP-ESC-01
+**Version:** 2.2
+
+## Level 1: Standard (Green)
+* RTT compliance > 92%.
+* Follow-up backlog < 2 weeks of capacity.
+
+## Level 2: Enhanced (Amber)
+* RTT compliance 88-91%.
+* DNA rates > 15%.
+* **Action:** Review clinic templates; maximize slot utilization.
+
+## Level 3: Critical (Red)
+* RTT compliance < 88%.
+* High-risk follow-up delays > 4 weeks.
+* **Action:** Activate weekend 'Waiting List Initiative' (WLI) clinics. Escalate to Divisional Board for locum funding.
+
+---
+
+# POLICY: Patient DNA (Did Not Attend) Management
+1. **First DNA:** Patient is automatically re-booked *once* for a routine slot.
+2. **Second DNA:** Patient is discharged back to GP unless the consultant identifies a significant clinical risk (e.g., advanced glaucoma).
+3. **Paediatric DNA:** Any DNA for a child must be escalated to the Safeguarding Lead.

@@ -1,0 +1,1501 @@
+Referral_Date,Source,Urgency,Subspecialty,Date_Seen,Breach_Status
+2025-12-10,Internal,Routine,Medical Retina,2026-03-18,No
+2026-01-05,GP,Routine,Medical Retina,2026-02-22,No
+2025-12-24,GP,Urgent,Glaucoma,2026-04-07,No
+2025-12-01,Internal,Routine,Cataract,2026-02-27,No
+2025-10-23,GP,Urgent,Medical Retina,2025-12-31,No
+2025-10-05,GP,Routine,Medical Retina,2026-01-28,No
+2025-10-24,Internal,Urgent,Medical Retina,2025-11-22,No
+2026-02-23,GP,Urgent,Emergency,2026-04-07,No
+2025-10-07,Optometrist,Routine,Glaucoma,2025-12-22,No
+2025-12-10,Optometrist,Routine,Emergency,2026-01-30,No
+2026-02-14,Internal,Urgent,Cataract,2026-07-02,Yes
+2026-03-28,Internal,Urgent,General,2026-06-21,No
+2026-02-15,Optometrist,Routine,Emergency,2026-06-05,No
+2025-12-09,Internal,Routine,Cataract,2025-12-18,No
+2026-03-27,Optometrist,Routine,General,2026-07-29,No
+2025-11-24,Internal,Routine,Emergency,2026-02-19,No
+2026-03-06,GP,Urgent,General,2026-07-01,No
+2025-10-10,GP,Routine,Emergency,2025-11-26,No
+2026-03-24,GP,Routine,Cataract,2026-05-06,No
+2026-01-31,GP,Urgent,Emergency,2026-06-05,No
+2026-02-27,Optometrist,Urgent,Emergency,2026-04-20,No
+2025-10-22,Internal,Urgent,Glaucoma,2025-12-23,No
+2025-12-06,GP,Routine,Glaucoma,2026-01-09,No
+2026-01-12,Optometrist,Routine,Glaucoma,2026-05-23,Yes
+2025-12-20,Internal,Routine,Glaucoma,2026-04-19,No
+2025-10-15,GP,Routine,Medical Retina,2025-11-09,No
+2025-10-09,GP,Urgent,Glaucoma,2026-01-25,No
+2026-03-22,GP,Routine,Medical Retina,2026-05-06,No
+2026-01-04,Optometrist,Routine,Emergency,2026-01-19,No
+2026-03-29,Optometrist,Routine,Cataract,2026-04-23,No
+2025-11-02,Optometrist,Routine,Cataract,2026-01-24,No
+2026-01-11,Optometrist,Routine,General,2026-04-03,No
+2025-11-02,Optometrist,Urgent,Cataract,2026-02-22,No
+2026-01-10,Optometrist,Routine,Emergency,2026-04-09,No
+2025-12-24,Optometrist,Routine,Glaucoma,2026-01-19,No
+2026-02-27,Optometrist,Routine,Glaucoma,2026-05-05,No
+2025-12-18,Optometrist,Routine,Glaucoma,2026-04-19,No
+2025-12-29,Optometrist,Routine,Cataract,2026-05-01,No
+2026-01-30,GP,Urgent,Glaucoma,2026-02-12,No
+2025-11-23,Internal,Routine,Glaucoma,2026-02-03,No
+2026-03-12,Optometrist,Urgent,Medical Retina,2026-05-25,No
+2026-01-10,GP,Routine,Medical Retina,2026-03-20,No
+2025-11-30,GP,Urgent,Emergency,2026-04-09,Yes
+2025-10-02,GP,Routine,Glaucoma,2026-02-03,No
+2026-01-16,Optometrist,Routine,Glaucoma,2026-03-19,No
+2026-02-26,Internal,Urgent,Emergency,2026-07-03,Yes
+2025-10-04,Optometrist,Urgent,Glaucoma,2025-11-02,No
+2026-03-18,Optometrist,Routine,Cataract,2026-03-25,No
+2026-01-28,Optometrist,Routine,Medical Retina,2026-04-30,No
+2025-12-08,GP,Urgent,Medical Retina,2026-02-11,No
+2026-03-21,GP,Urgent,Glaucoma,2026-04-16,No
+2025-10-17,Internal,Routine,Medical Retina,2025-12-12,No
+2025-10-16,Internal,Urgent,Emergency,2025-12-11,No
+2025-12-19,Optometrist,Routine,General,2026-01-19,No
+2025-11-25,Internal,Routine,Glaucoma,2025-12-05,No
+2025-10-12,GP,Urgent,Glaucoma,2026-01-04,No
+2025-11-24,GP,Urgent,General,2026-02-28,No
+2026-02-15,Internal,Routine,Medical Retina,2026-04-13,No
+2026-02-24,Optometrist,Routine,Emergency,2026-07-11,Yes
+2026-01-20,Optometrist,Routine,Cataract,2026-04-24,No
+2026-02-15,Optometrist,Urgent,Cataract,2026-05-24,No
+2025-12-29,Optometrist,Routine,Cataract,2026-04-19,No
+2025-11-13,Optometrist,Routine,Emergency,2025-12-12,No
+2025-10-12,Internal,Routine,Medical Retina,2025-12-15,No
+2026-02-20,Optometrist,Urgent,Medical Retina,2026-03-22,No
+2025-11-04,Internal,Urgent,Emergency,2026-03-08,No
+2026-02-07,Internal,Routine,Cataract,2026-04-08,No
+2026-02-02,GP,Urgent,Glaucoma,2026-06-04,No
+2025-10-29,Internal,Routine,Medical Retina,2025-12-16,No
+2025-11-21,Optometrist,Routine,General,2026-03-12,No
+2025-10-10,GP,Routine,Medical Retina,2025-12-24,No
+2026-01-17,GP,Routine,Glaucoma,2026-05-10,No
+2026-03-14,Internal,Routine,General,2026-03-28,No
+2025-11-12,Optometrist,Urgent,Emergency,2025-12-12,No
+2025-10-21,Optometrist,Routine,Glaucoma,2025-12-10,No
+2026-01-08,GP,Urgent,Glaucoma,2026-01-27,No
+2026-03-16,Internal,Routine,Medical Retina,2026-05-29,No
+2025-10-01,GP,Urgent,Medical Retina,2026-02-16,Yes
+2026-03-20,Optometrist,Routine,General,2026-06-01,No
+2025-10-07,Internal,Urgent,Glaucoma,2026-02-08,No
+2026-01-21,Optometrist,Urgent,Glaucoma,2026-03-15,No
+2026-01-26,GP,Routine,Medical Retina,2026-02-04,No
+2026-02-17,Internal,Urgent,Medical Retina,2026-06-10,No
+2026-01-08,GP,Urgent,General,2026-03-26,No
+2026-03-18,GP,Routine,General,2026-08-03,Yes
+2026-02-03,Internal,Routine,Glaucoma,2026-05-10,No
+2026-03-23,Internal,Routine,General,2026-07-23,No
+2026-02-13,Internal,Routine,General,2026-04-27,No
+2025-12-01,Optometrist,Routine,General,2025-12-15,No
+2026-02-16,Internal,Routine,Cataract,2026-03-29,No
+2026-02-07,Internal,Urgent,Emergency,2026-02-21,No
+2025-12-07,Internal,Routine,General,2026-03-09,No
+2025-10-26,GP,Routine,Medical Retina,2026-01-09,No
+2026-02-17,Optometrist,Urgent,Cataract,2026-04-18,No
+2025-10-15,Optometrist,Routine,Cataract,2025-12-26,No
+2025-12-20,GP,Routine,Glaucoma,2025-12-28,No
+2025-11-02,GP,Routine,Cataract,2026-02-16,No
+2025-12-27,Internal,Routine,Medical Retina,2026-04-03,No
+2025-12-30,Internal,Routine,Cataract,2026-03-07,No
+2026-01-10,Optometrist,Routine,Medical Retina,2026-01-19,No
+2025-11-07,Optometrist,Routine,General,2026-02-10,No
+2025-12-27,GP,Routine,Cataract,2026-03-18,No
+2025-11-26,GP,Routine,General,2026-02-03,No
+2026-02-03,Internal,Routine,Emergency,2026-06-08,No
+2026-03-10,Internal,Routine,Medical Retina,2026-05-16,No
+2026-01-20,GP,Urgent,General,2026-03-30,No
+2026-02-11,Internal,Urgent,Cataract,2026-06-12,No
+2025-10-21,GP,Routine,Cataract,2025-12-18,No
+2025-11-15,Optometrist,Routine,Glaucoma,2026-02-06,No
+2026-01-06,GP,Urgent,Medical Retina,2026-02-07,No
+2025-11-03,Optometrist,Urgent,Glaucoma,2025-12-06,No
+2025-12-25,Optometrist,Urgent,Cataract,2026-03-16,No
+2026-01-01,Optometrist,Urgent,General,2026-04-30,No
+2026-01-20,Optometrist,Routine,General,2026-03-12,No
+2025-11-01,GP,Routine,Cataract,2026-01-17,No
+2025-10-23,GP,Routine,General,2025-12-31,No
+2025-12-09,Internal,Routine,General,2026-03-04,No
+2025-11-05,GP,Routine,Glaucoma,2025-12-13,No
+2026-02-26,GP,Routine,Glaucoma,2026-05-02,No
+2025-12-14,Optometrist,Urgent,General,2026-02-13,No
+2025-10-26,Internal,Urgent,Medical Retina,2026-03-07,Yes
+2025-10-03,Optometrist,Routine,Medical Retina,2026-02-03,No
+2025-11-14,GP,Routine,Medical Retina,2026-01-12,No
+2026-03-19,GP,Routine,Cataract,2026-05-30,No
+2025-10-22,GP,Urgent,Emergency,2026-01-29,No
+2025-11-18,GP,Urgent,Cataract,2026-02-26,No
+2025-10-08,Optometrist,Urgent,Emergency,2025-12-25,No
+2026-01-02,Optometrist,Routine,Glaucoma,2026-04-25,No
+2026-02-07,Internal,Urgent,General,2026-06-23,Yes
+2025-10-05,GP,Urgent,Medical Retina,2025-12-09,No
+2026-03-01,Optometrist,Urgent,Emergency,2026-03-21,No
+2025-10-30,Internal,Routine,Emergency,2025-12-02,No
+2025-10-01,GP,Routine,Medical Retina,2025-11-18,No
+2025-11-09,Optometrist,Routine,Cataract,2026-03-01,No
+2025-11-18,GP,Urgent,Glaucoma,2026-03-05,No
+2025-11-24,Optometrist,Routine,Medical Retina,2026-04-05,Yes
+2025-10-29,Optometrist,Urgent,General,2025-11-21,No
+2026-03-13,GP,Routine,General,2026-05-24,No
+2025-12-31,GP,Routine,Glaucoma,2026-03-18,No
+2025-12-14,Internal,Routine,Cataract,2026-03-13,No
+2026-01-29,Optometrist,Routine,Glaucoma,2026-06-14,Yes
+2026-01-01,Optometrist,Routine,Glaucoma,2026-05-01,No
+2025-10-31,Optometrist,Urgent,General,2025-12-19,No
+2025-11-20,GP,Routine,Cataract,2025-11-27,No
+2026-02-01,Internal,Routine,Cataract,2026-06-16,Yes
+2026-01-26,Internal,Urgent,General,2026-05-07,No
+2026-03-06,Internal,Urgent,Cataract,2026-05-07,No
+2025-10-07,Internal,Routine,Medical Retina,2025-12-24,No
+2025-11-22,Internal,Routine,Cataract,2026-04-06,Yes
+2025-10-24,GP,Urgent,General,2025-12-04,No
+2026-02-05,Internal,Routine,Medical Retina,2026-05-27,No
+2025-12-11,Internal,Routine,Medical Retina,2026-03-28,No
+2025-10-08,Optometrist,Routine,Emergency,2025-12-17,No
+2026-02-09,GP,Routine,Medical Retina,2026-05-03,No
+2026-03-10,Optometrist,Routine,Cataract,2026-04-18,No
+2026-03-03,Optometrist,Routine,Cataract,2026-04-03,No
+2025-10-28,GP,Urgent,Glaucoma,2026-02-12,No
+2026-01-05,Internal,Routine,General,2026-05-19,Yes
+2026-02-08,GP,Routine,Cataract,2026-02-18,No
+2026-03-01,Internal,Urgent,Cataract,2026-05-13,No
+2026-01-25,GP,Urgent,Cataract,2026-04-22,No
+2025-10-11,Optometrist,Routine,Medical Retina,2026-02-01,No
+2026-01-28,GP,Routine,Cataract,2026-05-20,No
+2026-01-26,GP,Routine,General,2026-04-09,No
+2025-11-01,Internal,Routine,General,2026-03-06,No
+2026-01-10,GP,Routine,Medical Retina,2026-04-06,No
+2026-02-23,Optometrist,Urgent,Emergency,2026-03-09,No
+2025-11-17,GP,Urgent,Cataract,2025-12-01,No
+2026-01-01,GP,Urgent,Cataract,2026-03-12,No
+2026-02-04,GP,Urgent,Cataract,2026-02-25,No
+2025-11-27,GP,Routine,Glaucoma,2026-02-09,No
+2025-11-05,GP,Routine,Cataract,2025-12-21,No
+2026-03-20,GP,Routine,Cataract,2026-06-05,No
+2026-02-17,GP,Routine,Emergency,2026-03-20,No
+2025-12-28,Internal,Routine,Glaucoma,2026-04-06,No
+2026-02-09,Optometrist,Routine,General,2026-04-27,No
+2026-02-06,Optometrist,Routine,Medical Retina,2026-03-27,No
+2025-12-15,Optometrist,Routine,Medical Retina,2026-04-09,No
+2025-10-24,Internal,Routine,Glaucoma,2025-11-23,No
+2026-01-27,Internal,Urgent,Emergency,2026-03-07,No
+2026-03-11,Optometrist,Routine,General,2026-04-13,No
+2026-02-03,GP,Routine,General,2026-05-29,No
+2026-02-26,GP,Routine,Medical Retina,2026-05-11,No
+2025-12-02,Internal,Routine,Glaucoma,2026-04-08,Yes
+2026-01-05,Internal,Routine,Medical Retina,2026-05-21,Yes
+2025-11-22,Optometrist,Routine,General,2025-12-29,No
+2025-10-02,GP,Routine,Glaucoma,2025-11-12,No
+2025-10-01,GP,Routine,General,2026-01-20,No
+2025-11-03,GP,Urgent,General,2026-02-13,No
+2025-10-10,Optometrist,Routine,General,2026-01-23,No
+2026-01-17,GP,Urgent,Emergency,2026-05-21,No
+2025-12-27,GP,Urgent,Cataract,2026-05-12,Yes
+2025-12-12,Internal,Routine,Cataract,2025-12-23,No
+2025-11-16,GP,Routine,Emergency,2026-01-12,No
+2026-02-11,GP,Routine,Cataract,2026-04-10,No
+2025-10-12,GP,Routine,Glaucoma,2025-10-29,No
+2025-10-16,GP,Routine,Glaucoma,2026-02-18,No
+2026-01-31,GP,Routine,Cataract,2026-06-05,No
+2026-02-28,Optometrist,Routine,Emergency,2026-07-07,Yes
+2025-10-23,GP,Routine,Medical Retina,2026-02-27,Yes
+2026-01-06,Optometrist,Urgent,Medical Retina,2026-04-27,No
+2026-01-15,Internal,Routine,Cataract,2026-02-02,No
+2025-10-16,Optometrist,Urgent,Medical Retina,2025-12-06,No
+2026-02-07,GP,Routine,Medical Retina,2026-04-22,No
+2026-01-14,Internal,Urgent,Glaucoma,2026-04-21,No
+2025-10-24,Internal,Routine,Glaucoma,2025-11-08,No
+2025-10-06,Optometrist,Urgent,General,2025-10-23,No
+2026-02-28,Optometrist,Urgent,Glaucoma,2026-06-24,No
+2026-03-18,Internal,Urgent,Emergency,2026-08-04,Yes
+2026-01-07,Optometrist,Routine,Glaucoma,2026-03-11,No
+2026-02-01,GP,Urgent,General,2026-04-13,No
+2025-11-21,Optometrist,Routine,General,2026-03-07,No
+2026-02-13,GP,Routine,Glaucoma,2026-05-23,No
+2025-10-25,Optometrist,Urgent,Glaucoma,2025-12-03,No
+2026-02-19,Internal,Routine,Emergency,2026-03-26,No
+2025-10-23,Optometrist,Routine,Medical Retina,2025-11-25,No
+2026-02-13,GP,Urgent,General,2026-03-04,No
+2025-11-27,Internal,Routine,General,2025-12-25,No
+2025-12-05,GP,Routine,Medical Retina,2025-12-16,No
+2026-02-21,GP,Routine,General,2026-05-13,No
+2025-12-19,Optometrist,Urgent,Emergency,2026-02-16,No
+2025-11-27,GP,Urgent,Emergency,2026-01-31,No
+2026-03-11,Optometrist,Urgent,Cataract,2026-05-24,No
+2026-03-03,Internal,Routine,Glaucoma,2026-04-19,No
+2025-10-04,Optometrist,Routine,Medical Retina,2026-01-26,No
+2026-03-19,Internal,Routine,Emergency,2026-07-31,Yes
+2025-12-15,Internal,Routine,Medical Retina,2026-04-23,Yes
+2025-10-25,Internal,Urgent,Medical Retina,2026-02-11,No
+2025-10-10,Optometrist,Urgent,Cataract,2025-11-14,No
+2026-02-12,Optometrist,Routine,Emergency,2026-03-25,No
+2025-12-10,GP,Routine,Cataract,2026-03-20,No
+2025-10-30,Optometrist,Urgent,Cataract,2026-02-23,No
+2025-12-13,Optometrist,Routine,Emergency,2026-03-05,No
+2026-03-11,Optometrist,Routine,Cataract,2026-07-01,No
+2026-01-11,Internal,Urgent,Emergency,2026-04-04,No
+2026-01-03,GP,Routine,Cataract,2026-05-01,No
+2025-11-21,Optometrist,Routine,Glaucoma,2025-12-30,No
+2026-01-12,GP,Routine,Cataract,2026-02-13,No
+2025-12-26,Optometrist,Urgent,Cataract,2026-02-02,No
+2025-11-03,Optometrist,Urgent,Cataract,2025-11-28,No
+2025-11-26,Optometrist,Routine,Glaucoma,2026-03-02,No
+2025-10-22,GP,Urgent,Medical Retina,2026-01-27,No
+2026-03-12,GP,Routine,General,2026-07-19,Yes
+2025-12-24,Optometrist,Routine,Cataract,2026-04-13,No
+2026-03-27,Optometrist,Routine,Cataract,2026-07-13,No
+2025-12-08,Internal,Urgent,General,2026-03-04,No
+2026-02-23,GP,Urgent,Emergency,2026-03-25,No
+2026-01-07,Internal,Routine,General,2026-02-11,No
+2025-10-22,Optometrist,Routine,Emergency,2025-12-05,No
+2025-10-18,Internal,Urgent,Cataract,2025-11-10,No
+2026-01-20,GP,Routine,Emergency,2026-06-03,Yes
+2025-12-29,Optometrist,Routine,Medical Retina,2026-01-19,No
+2026-03-03,Optometrist,Routine,Medical Retina,2026-07-07,No
+2025-10-18,Internal,Routine,Medical Retina,2026-02-21,No
+2026-02-23,Optometrist,Routine,Glaucoma,2026-06-01,No
+2025-10-08,Optometrist,Routine,Emergency,2026-01-28,No
+2026-03-27,Optometrist,Urgent,Emergency,2026-04-29,No
+2025-12-16,Optometrist,Routine,Medical Retina,2026-02-05,No
+2026-02-28,Optometrist,Urgent,Emergency,2026-06-20,No
+2025-11-10,Internal,Routine,Emergency,2026-02-27,No
+2026-03-04,Optometrist,Urgent,Cataract,2026-07-17,Yes
+2025-12-30,GP,Routine,Emergency,2026-02-01,No
+2025-12-19,Optometrist,Routine,Cataract,2026-01-29,No
+2025-11-27,Internal,Routine,Emergency,2026-03-15,No
+2025-12-31,Internal,Routine,Cataract,2026-02-27,No
+2026-03-01,Optometrist,Routine,Emergency,2026-04-13,No
+2026-01-25,Internal,Routine,Glaucoma,2026-03-21,No
+2025-10-28,Internal,Urgent,General,2025-12-05,No
+2026-03-15,Optometrist,Routine,General,2026-07-07,No
+2025-11-15,Optometrist,Routine,General,2026-02-12,No
+2026-02-15,Internal,Routine,Glaucoma,2026-03-15,No
+2026-01-08,Optometrist,Routine,Glaucoma,2026-02-17,No
+2025-10-01,GP,Routine,Emergency,2025-11-10,No
+2026-03-22,GP,Urgent,Emergency,2026-07-23,No
+2025-10-24,Internal,Routine,Emergency,2025-12-07,No
+2026-03-25,GP,Routine,General,2026-06-24,No
+2026-02-06,Internal,Routine,General,2026-03-15,No
+2026-03-01,Internal,Routine,General,2026-07-12,Yes
+2026-03-26,Optometrist,Routine,General,2026-07-21,No
+2025-11-03,Internal,Routine,General,2026-03-11,Yes
+2026-03-26,GP,Routine,General,2026-04-07,No
+2025-11-21,GP,Routine,Medical Retina,2025-12-14,No
+2025-10-28,GP,Urgent,Medical Retina,2025-11-07,No
+2026-02-25,GP,Routine,Emergency,2026-05-07,No
+2026-03-27,Internal,Routine,General,2026-04-05,No
+2026-03-10,Internal,Urgent,General,2026-05-23,No
+2025-12-18,Internal,Urgent,Cataract,2026-01-16,No
+2025-10-14,Optometrist,Routine,Emergency,2026-02-14,No
+2026-01-03,Internal,Routine,Emergency,2026-01-22,No
+2025-12-24,Optometrist,Routine,Emergency,2026-02-15,No
+2026-03-12,Optometrist,Urgent,Cataract,2026-06-23,No
+2026-03-28,Internal,Routine,Glaucoma,2026-06-07,No
+2025-11-07,GP,Routine,Emergency,2025-12-16,No
+2025-10-13,GP,Urgent,General,2026-02-17,Yes
+2026-03-18,GP,Routine,Emergency,2026-06-25,No
+2026-03-03,Internal,Routine,Glaucoma,2026-06-15,No
+2026-02-23,GP,Urgent,Medical Retina,2026-03-04,No
+2025-11-05,Internal,Urgent,Emergency,2025-11-26,No
+2026-02-09,GP,Routine,Glaucoma,2026-03-10,No
+2025-12-16,GP,Routine,Cataract,2026-01-16,No
+2025-12-25,Internal,Routine,Medical Retina,2026-04-03,No
+2025-10-30,Optometrist,Routine,General,2025-12-09,No
+2025-10-04,Optometrist,Urgent,Medical Retina,2025-10-24,No
+2025-10-08,GP,Urgent,Cataract,2025-11-12,No
+2026-03-16,GP,Urgent,Cataract,2026-07-27,Yes
+2025-12-22,Internal,Routine,Emergency,2026-04-24,No
+2025-12-17,Internal,Urgent,Glaucoma,2026-03-28,No
+2025-12-25,GP,Urgent,Emergency,2026-02-06,No
+2025-10-19,Optometrist,Urgent,Glaucoma,2026-01-22,No
+2025-11-06,Optometrist,Routine,Emergency,2025-12-25,No
+2026-03-18,Internal,Routine,Emergency,2026-04-25,No
+2025-11-23,Internal,Urgent,Emergency,2026-01-29,No
+2026-01-18,Internal,Routine,Cataract,2026-04-03,No
+2026-02-27,Internal,Urgent,Medical Retina,2026-06-25,No
+2026-01-07,Internal,Routine,Emergency,2026-05-18,Yes
+2025-11-14,Optometrist,Urgent,Cataract,2026-01-29,No
+2026-01-05,GP,Urgent,General,2026-03-10,No
+2025-12-08,Optometrist,Routine,Cataract,2026-02-14,No
+2025-11-24,Internal,Routine,Glaucoma,2026-02-16,No
+2026-01-27,GP,Urgent,Glaucoma,2026-06-02,No
+2026-01-28,Internal,Routine,General,2026-05-03,No
+2026-03-12,Optometrist,Urgent,General,2026-07-17,Yes
+2025-12-25,Internal,Routine,Emergency,2026-04-23,No
+2025-12-22,GP,Urgent,Medical Retina,2026-05-07,Yes
+2025-10-28,Optometrist,Routine,Emergency,2026-03-07,Yes
+2025-10-31,Internal,Urgent,Cataract,2025-12-24,No
+2025-10-26,Internal,Routine,Emergency,2026-02-14,No
+2025-11-26,Internal,Routine,Glaucoma,2026-02-22,No
+2025-10-29,Optometrist,Routine,Medical Retina,2026-01-14,No
+2026-02-02,Internal,Routine,Medical Retina,2026-02-26,No
+2025-11-15,Optometrist,Routine,Medical Retina,2026-01-06,No
+2026-01-11,Internal,Urgent,Emergency,2026-02-04,No
+2026-03-20,GP,Routine,Cataract,2026-07-26,Yes
+2026-01-02,GP,Routine,Cataract,2026-02-10,No
+2026-02-07,Internal,Routine,Glaucoma,2026-05-14,No
+2026-02-26,GP,Routine,Emergency,2026-04-09,No
+2026-01-06,GP,Routine,Emergency,2026-05-18,Yes
+2025-11-08,Internal,Urgent,Emergency,2026-01-08,No
+2026-01-26,Optometrist,Routine,General,2026-02-10,No
+2026-02-17,GP,Routine,Cataract,2026-03-23,No
+2025-10-17,Optometrist,Routine,Cataract,2026-02-08,No
+2025-11-29,Internal,Routine,Medical Retina,2026-01-29,No
+2025-10-11,Internal,Routine,Emergency,2025-10-25,No
+2026-02-25,GP,Routine,General,2026-05-07,No
+2025-11-29,Internal,Urgent,Medical Retina,2026-01-05,No
+2025-12-24,Internal,Routine,Emergency,2026-02-24,No
+2025-12-25,Internal,Urgent,Emergency,2026-01-22,No
+2025-10-15,Internal,Routine,Glaucoma,2026-01-16,No
+2025-12-08,GP,Urgent,General,2026-02-23,No
+2025-12-03,Internal,Routine,General,2025-12-13,No
+2026-03-09,Internal,Routine,Cataract,2026-06-17,No
+2025-12-06,GP,Routine,General,2026-01-08,No
+2025-10-13,Optometrist,Urgent,Cataract,2025-11-29,No
+2025-10-15,GP,Routine,Emergency,2025-12-08,No
+2025-12-11,GP,Routine,Cataract,2026-02-15,No
+2025-12-05,Optometrist,Routine,Cataract,2026-03-02,No
+2025-11-04,GP,Urgent,General,2026-01-01,No
+2026-02-28,GP,Routine,Medical Retina,2026-03-25,No
+2025-10-08,Optometrist,Urgent,Cataract,2025-12-19,No
+2025-12-22,GP,Routine,Cataract,2026-05-07,Yes
+2025-12-15,GP,Routine,Emergency,2026-04-14,No
+2026-03-02,GP,Routine,Glaucoma,2026-03-10,No
+2025-12-19,GP,Routine,General,2026-05-03,Yes
+2026-01-08,Internal,Routine,Medical Retina,2026-05-03,No
+2025-11-19,GP,Routine,Emergency,2026-03-20,No
+2025-12-12,GP,Routine,Emergency,2025-12-21,No
+2026-03-15,Optometrist,Routine,Emergency,2026-05-04,No
+2026-01-27,GP,Routine,Emergency,2026-06-14,Yes
+2025-12-09,Internal,Routine,Cataract,2026-04-04,No
+2025-11-30,Internal,Routine,Cataract,2026-02-08,No
+2026-03-29,Optometrist,Routine,General,2026-08-03,Yes
+2025-10-06,Optometrist,Routine,Medical Retina,2026-01-05,No
+2026-01-18,GP,Routine,Cataract,2026-06-06,Yes
+2025-12-20,GP,Urgent,Cataract,2026-03-04,No
+2026-01-15,GP,Urgent,General,2026-02-11,No
+2026-02-01,GP,Routine,Medical Retina,2026-04-30,No
+2026-01-05,GP,Routine,Emergency,2026-03-30,No
+2026-02-10,Optometrist,Routine,Cataract,2026-03-10,No
+2025-10-08,GP,Routine,Emergency,2025-12-15,No
+2026-02-24,Internal,Urgent,Emergency,2026-05-30,No
+2026-01-15,GP,Urgent,Emergency,2026-05-11,No
+2026-02-08,GP,Routine,Emergency,2026-05-07,No
+2026-03-26,Optometrist,Urgent,Emergency,2026-04-28,No
+2026-03-01,Optometrist,Routine,Glaucoma,2026-03-11,No
+2025-11-01,GP,Urgent,Cataract,2025-12-07,No
+2026-01-11,GP,Urgent,Cataract,2026-05-27,Yes
+2026-03-14,GP,Urgent,Cataract,2026-04-11,No
+2026-01-10,Internal,Urgent,Cataract,2026-04-12,No
+2025-10-18,GP,Routine,Emergency,2026-02-14,No
+2026-02-10,Internal,Routine,Medical Retina,2026-04-29,No
+2026-01-01,Optometrist,Routine,Medical Retina,2026-01-30,No
+2025-10-16,Optometrist,Routine,Emergency,2025-11-27,No
+2025-11-13,GP,Urgent,Medical Retina,2025-12-06,No
+2026-01-05,Optometrist,Routine,Medical Retina,2026-02-03,No
+2026-02-06,GP,Routine,Emergency,2026-04-10,No
+2025-12-25,Optometrist,Urgent,Glaucoma,2026-05-13,Yes
+2025-12-27,Internal,Routine,Emergency,2026-05-04,Yes
+2026-01-01,GP,Routine,Glaucoma,2026-02-23,No
+2026-01-16,Internal,Routine,Cataract,2026-05-08,No
+2026-02-11,GP,Urgent,Medical Retina,2026-05-10,No
+2025-11-06,Optometrist,Urgent,General,2025-12-06,No
+2026-02-22,Internal,Urgent,Medical Retina,2026-06-16,No
+2026-01-10,Optometrist,Routine,Emergency,2026-03-23,No
+2026-01-01,Internal,Routine,Medical Retina,2026-04-21,No
+2025-12-25,Optometrist,Routine,General,2026-04-10,No
+2025-12-01,Internal,Routine,Emergency,2026-02-12,No
+2025-11-16,GP,Routine,Emergency,2026-02-25,No
+2025-10-28,Internal,Routine,Emergency,2025-11-05,No
+2026-02-08,Optometrist,Routine,Emergency,2026-04-02,No
+2026-01-02,Optometrist,Urgent,Cataract,2026-02-25,No
+2026-03-04,GP,Urgent,Emergency,2026-07-01,No
+2026-03-26,Optometrist,Routine,Glaucoma,2026-04-23,No
+2025-11-28,Internal,Routine,Emergency,2026-02-04,No
+2026-01-19,Optometrist,Routine,General,2026-05-17,No
+2025-10-13,Internal,Routine,Medical Retina,2026-01-19,No
+2025-12-24,Internal,Routine,Emergency,2026-03-23,No
+2026-02-15,Internal,Urgent,General,2026-05-14,No
+2025-10-07,Optometrist,Urgent,Glaucoma,2025-11-12,No
+2026-01-26,Internal,Routine,General,2026-04-23,No
+2025-10-30,Optometrist,Urgent,General,2025-12-05,No
+2025-11-23,GP,Urgent,Emergency,2026-03-09,No
+2025-12-24,GP,Routine,Medical Retina,2026-04-02,No
+2026-02-15,GP,Urgent,Medical Retina,2026-06-03,No
+2025-10-10,GP,Routine,General,2025-11-27,No
+2025-12-19,Internal,Routine,Cataract,2025-12-26,No
+2025-10-11,GP,Routine,Medical Retina,2025-11-14,No
+2025-12-28,Internal,Routine,Emergency,2026-03-31,No
+2025-12-09,Internal,Routine,Medical Retina,2026-02-23,No
+2025-10-10,Optometrist,Routine,Emergency,2025-12-14,No
+2026-02-14,Internal,Routine,Emergency,2026-05-23,No
+2025-12-01,GP,Routine,Cataract,2026-04-07,Yes
+2026-03-20,Optometrist,Urgent,Medical Retina,2026-05-11,No
+2026-02-26,Optometrist,Routine,Medical Retina,2026-06-25,No
+2025-12-24,Optometrist,Routine,Glaucoma,2026-04-04,No
+2025-10-04,GP,Urgent,General,2026-02-07,No
+2025-12-13,Optometrist,Urgent,Glaucoma,2026-01-15,No
+2025-11-22,GP,Routine,Glaucoma,2026-01-29,No
+2026-01-07,Internal,Routine,Emergency,2026-02-26,No
+2025-10-02,Internal,Urgent,General,2025-10-22,No
+2025-10-16,GP,Urgent,Emergency,2025-11-19,No
+2025-11-22,GP,Routine,Cataract,2026-03-15,No
+2025-11-14,GP,Urgent,Medical Retina,2026-01-28,No
+2026-02-16,GP,Routine,Emergency,2026-02-27,No
+2025-10-20,GP,Urgent,General,2026-03-02,Yes
+2025-10-01,Internal,Routine,Glaucoma,2025-12-08,No
+2026-02-10,Optometrist,Routine,Emergency,2026-02-19,No
+2025-12-15,Internal,Urgent,Emergency,2026-01-22,No
+2025-10-12,GP,Urgent,Cataract,2026-01-21,No
+2025-12-04,Internal,Routine,Cataract,2025-12-18,No
+2025-11-14,Optometrist,Routine,General,2026-02-06,No
+2026-03-11,GP,Routine,Glaucoma,2026-04-29,No
+2025-12-20,Optometrist,Routine,Emergency,2025-12-31,No
+2025-10-31,Optometrist,Routine,General,2026-01-29,No
+2025-11-27,GP,Routine,Medical Retina,2026-01-24,No
+2025-12-14,GP,Routine,General,2026-04-24,Yes
+2026-03-29,Optometrist,Routine,Glaucoma,2026-04-17,No
+2025-11-19,Internal,Urgent,Emergency,2026-01-28,No
+2025-12-13,Internal,Urgent,Cataract,2026-01-04,No
+2025-12-23,Optometrist,Routine,Glaucoma,2026-02-11,No
+2026-03-23,Optometrist,Routine,Glaucoma,2026-07-29,Yes
+2026-01-12,Optometrist,Routine,General,2026-05-18,No
+2026-02-23,Optometrist,Routine,Emergency,2026-06-16,No
+2025-10-24,GP,Routine,Cataract,2025-11-03,No
+2026-01-12,GP,Routine,Medical Retina,2026-04-24,No
+2026-02-04,Internal,Routine,Medical Retina,2026-04-09,No
+2025-10-11,Internal,Routine,Glaucoma,2026-01-29,No
+2025-12-04,Optometrist,Urgent,Medical Retina,2026-04-07,No
+2026-01-21,Internal,Routine,Emergency,2026-03-26,No
+2025-11-22,GP,Urgent,General,2025-12-12,No
+2026-01-04,Internal,Routine,Glaucoma,2026-01-26,No
+2025-11-20,GP,Urgent,Medical Retina,2026-03-06,No
+2026-02-26,GP,Routine,Cataract,2026-07-02,No
+2026-01-10,Internal,Routine,Cataract,2026-02-06,No
+2026-01-28,Internal,Routine,Glaucoma,2026-03-20,No
+2026-01-16,GP,Routine,Cataract,2026-02-15,No
+2025-10-24,Internal,Urgent,Cataract,2026-01-08,No
+2025-12-18,Internal,Urgent,General,2026-03-10,No
+2025-12-07,GP,Routine,Medical Retina,2026-01-19,No
+2025-10-21,Internal,Routine,General,2026-02-05,No
+2025-10-29,Internal,Urgent,Cataract,2026-01-06,No
+2025-11-15,GP,Urgent,Glaucoma,2026-03-12,No
+2025-12-22,Internal,Urgent,Emergency,2026-02-08,No
+2026-01-27,Optometrist,Routine,Glaucoma,2026-04-21,No
+2026-02-25,Optometrist,Routine,General,2026-05-21,No
+2025-11-08,Optometrist,Routine,Emergency,2026-03-11,No
+2026-01-20,Internal,Urgent,Medical Retina,2026-04-09,No
+2026-02-28,Internal,Routine,Emergency,2026-06-28,No
+2026-01-06,GP,Routine,Cataract,2026-01-26,No
+2025-12-08,Optometrist,Urgent,Cataract,2025-12-25,No
+2026-03-07,Internal,Routine,Medical Retina,2026-07-06,No
+2026-03-01,Optometrist,Routine,Cataract,2026-04-05,No
+2025-11-11,Internal,Routine,General,2025-12-16,No
+2026-01-12,GP,Urgent,Emergency,2026-05-26,Yes
+2026-03-05,GP,Routine,General,2026-05-08,No
+2026-03-09,GP,Routine,Emergency,2026-07-21,Yes
+2025-12-26,Optometrist,Routine,Emergency,2026-04-10,No
+2025-10-24,Internal,Routine,General,2026-01-06,No
+2026-03-21,Optometrist,Routine,Emergency,2026-07-25,No
+2026-02-22,GP,Urgent,Emergency,2026-07-08,Yes
+2025-12-17,Optometrist,Urgent,Medical Retina,2026-02-07,No
+2026-03-20,Optometrist,Routine,Emergency,2026-06-03,No
+2026-03-15,GP,Urgent,Cataract,2026-07-06,No
+2026-03-08,GP,Routine,General,2026-05-12,No
+2026-01-05,Optometrist,Urgent,Medical Retina,2026-02-05,No
+2026-01-06,GP,Urgent,Cataract,2026-05-05,No
+2025-12-04,Optometrist,Urgent,Cataract,2026-02-07,No
+2025-12-28,Internal,Routine,General,2026-04-23,No
+2025-10-06,GP,Routine,Cataract,2025-11-07,No
+2026-03-03,Optometrist,Routine,Medical Retina,2026-03-24,No
+2026-01-11,Internal,Routine,Glaucoma,2026-05-03,No
+2025-12-07,Optometrist,Urgent,Glaucoma,2026-01-11,No
+2025-12-03,GP,Routine,Emergency,2026-03-03,No
+2026-03-25,Internal,Routine,General,2026-04-21,No
+2026-01-28,Optometrist,Routine,Emergency,2026-04-25,No
+2025-12-24,GP,Routine,Glaucoma,2026-03-28,No
+2026-01-02,Optometrist,Urgent,General,2026-03-18,No
+2025-11-09,Optometrist,Routine,Cataract,2026-02-08,No
+2026-03-13,GP,Routine,Cataract,2026-05-18,No
+2025-11-01,Optometrist,Routine,Emergency,2025-12-04,No
+2025-11-16,Optometrist,Routine,Emergency,2025-12-16,No
+2026-01-27,Optometrist,Urgent,Cataract,2026-03-17,No
+2025-12-05,Optometrist,Routine,Emergency,2025-12-12,No
+2026-02-17,Optometrist,Routine,Emergency,2026-03-21,No
+2026-03-08,GP,Routine,General,2026-05-05,No
+2025-12-20,GP,Urgent,Emergency,2026-04-21,No
+2025-12-18,Internal,Routine,Glaucoma,2026-02-25,No
+2025-12-24,Optometrist,Routine,Medical Retina,2026-04-21,No
+2026-02-06,Optometrist,Routine,Medical Retina,2026-05-09,No
+2026-02-11,GP,Routine,General,2026-05-31,No
+2026-02-10,Internal,Routine,General,2026-05-03,No
+2026-02-11,Optometrist,Routine,Medical Retina,2026-04-13,No
+2025-11-18,GP,Urgent,Cataract,2025-12-22,No
+2026-03-19,Internal,Routine,General,2026-04-17,No
+2026-01-09,GP,Routine,Emergency,2026-05-20,Yes
+2025-11-23,Internal,Routine,General,2025-12-27,No
+2025-10-21,GP,Urgent,Emergency,2025-11-16,No
+2026-01-23,Internal,Routine,Medical Retina,2026-04-24,No
+2025-12-20,GP,Routine,Emergency,2025-12-28,No
+2025-10-14,Optometrist,Routine,Medical Retina,2025-11-29,No
+2025-11-03,Internal,Routine,Medical Retina,2026-03-01,No
+2025-11-03,Internal,Routine,Cataract,2026-03-13,Yes
+2025-12-01,Optometrist,Routine,Glaucoma,2026-02-15,No
+2025-12-19,GP,Routine,Emergency,2026-04-22,No
+2026-03-15,Optometrist,Urgent,Cataract,2026-05-03,No
+2025-12-27,GP,Routine,Cataract,2026-01-30,No
+2025-10-07,Optometrist,Routine,Emergency,2025-11-19,No
+2026-01-28,Internal,Routine,Glaucoma,2026-05-30,No
+2026-01-18,Optometrist,Routine,Cataract,2026-04-05,No
+2026-03-22,Internal,Routine,Cataract,2026-08-02,Yes
+2026-03-21,Internal,Routine,Medical Retina,2026-06-09,No
+2026-03-09,Internal,Urgent,Glaucoma,2026-03-21,No
+2026-02-25,GP,Urgent,Glaucoma,2026-06-12,No
+2025-10-01,GP,Routine,Emergency,2025-11-19,No
+2026-03-21,Optometrist,Routine,Medical Retina,2026-07-16,No
+2025-10-09,Optometrist,Routine,General,2026-01-16,No
+2025-11-28,Optometrist,Routine,General,2026-03-30,No
+2026-03-07,Optometrist,Routine,Emergency,2026-04-23,No
+2026-01-11,Internal,Urgent,Glaucoma,2026-03-10,No
+2025-11-14,Optometrist,Routine,General,2026-01-17,No
+2025-11-15,Internal,Urgent,Medical Retina,2026-03-31,Yes
+2026-01-12,Internal,Routine,Glaucoma,2026-05-15,No
+2026-02-12,GP,Urgent,General,2026-03-25,No
+2025-12-27,Internal,Urgent,General,2026-03-10,No
+2025-11-12,Optometrist,Routine,Emergency,2026-03-25,Yes
+2025-11-17,Optometrist,Routine,Medical Retina,2026-01-17,No
+2025-10-23,Internal,Routine,Emergency,2025-12-21,No
+2025-12-02,Optometrist,Urgent,Medical Retina,2025-12-15,No
+2026-01-27,Optometrist,Routine,Glaucoma,2026-03-18,No
+2025-11-05,GP,Urgent,Medical Retina,2026-02-22,No
+2026-03-29,GP,Routine,Emergency,2026-08-03,Yes
+2026-01-17,Optometrist,Routine,Medical Retina,2026-03-10,No
+2025-10-21,Optometrist,Routine,Emergency,2025-11-25,No
+2025-12-08,Optometrist,Routine,Cataract,2026-04-04,No
+2026-02-15,Internal,Routine,General,2026-05-22,No
+2026-01-16,Internal,Routine,Emergency,2026-03-22,No
+2026-03-06,Internal,Routine,Cataract,2026-06-27,No
+2025-12-08,Optometrist,Routine,General,2026-02-28,No
+2026-03-24,Optometrist,Routine,Medical Retina,2026-05-11,No
+2026-03-20,GP,Routine,Cataract,2026-06-15,No
+2026-02-16,GP,Urgent,Medical Retina,2026-06-26,Yes
+2026-01-07,Optometrist,Routine,Cataract,2026-02-21,No
+2026-02-18,GP,Routine,Medical Retina,2026-05-03,No
+2026-01-12,GP,Routine,Glaucoma,2026-01-25,No
+2025-10-03,Optometrist,Routine,General,2025-11-27,No
+2025-11-27,Optometrist,Urgent,Cataract,2025-12-25,No
+2026-01-02,GP,Routine,General,2026-01-13,No
+2025-10-22,Internal,Routine,General,2025-11-28,No
+2025-12-01,GP,Urgent,Glaucoma,2025-12-13,No
+2026-01-13,GP,Routine,Emergency,2026-02-01,No
+2025-11-22,Optometrist,Routine,Cataract,2026-03-06,No
+2026-03-05,Optometrist,Urgent,Medical Retina,2026-05-11,No
+2026-03-18,GP,Routine,Emergency,2026-04-01,No
+2025-10-12,GP,Urgent,Glaucoma,2025-12-08,No
+2025-10-05,Internal,Routine,Glaucoma,2026-01-20,No
+2026-02-05,GP,Urgent,Glaucoma,2026-05-17,No
+2025-11-04,Internal,Routine,General,2025-12-18,No
+2025-12-17,Optometrist,Routine,General,2026-01-01,No
+2026-03-13,Internal,Routine,Glaucoma,2026-05-17,No
+2026-01-22,Internal,Routine,Glaucoma,2026-04-25,No
+2025-12-14,Optometrist,Urgent,Medical Retina,2026-01-28,No
+2025-12-04,GP,Routine,General,2026-01-16,No
+2025-10-14,Optometrist,Routine,Emergency,2025-12-14,No
+2026-03-05,Optometrist,Routine,Cataract,2026-06-09,No
+2025-10-15,Optometrist,Routine,General,2026-02-06,No
+2026-01-23,Optometrist,Urgent,Emergency,2026-04-01,No
+2025-11-25,Internal,Routine,General,2026-03-26,No
+2026-03-11,GP,Routine,Emergency,2026-03-28,No
+2025-12-21,GP,Routine,Cataract,2026-03-11,No
+2026-01-16,Optometrist,Routine,Medical Retina,2026-03-23,No
+2025-10-26,Optometrist,Routine,Medical Retina,2026-01-24,No
+2025-10-03,GP,Routine,Cataract,2025-11-22,No
+2025-11-02,Optometrist,Routine,Cataract,2025-11-25,No
+2025-11-27,Internal,Routine,Glaucoma,2026-02-28,No
+2025-12-22,Optometrist,Routine,Emergency,2026-04-14,No
+2026-02-28,GP,Urgent,General,2026-04-12,No
+2025-10-12,Optometrist,Urgent,Glaucoma,2025-11-02,No
+2025-12-19,Internal,Urgent,Medical Retina,2026-02-12,No
+2026-02-28,GP,Routine,Glaucoma,2026-05-31,No
+2026-02-09,Internal,Routine,Cataract,2026-04-06,No
+2026-02-03,Optometrist,Urgent,Emergency,2026-05-08,No
+2026-02-05,Internal,Urgent,Glaucoma,2026-06-06,No
+2025-12-02,Internal,Urgent,Medical Retina,2026-04-15,Yes
+2025-10-01,Optometrist,Routine,Medical Retina,2025-10-19,No
+2026-03-15,Optometrist,Urgent,Glaucoma,2026-05-27,No
+2026-03-16,Optometrist,Routine,Cataract,2026-04-29,No
+2026-02-21,GP,Routine,Cataract,2026-03-27,No
+2025-12-30,Optometrist,Urgent,General,2026-03-26,No
+2026-02-07,GP,Urgent,Emergency,2026-03-16,No
+2025-12-19,Internal,Routine,Glaucoma,2026-04-11,No
+2025-10-24,Internal,Routine,General,2025-11-18,No
+2026-03-08,Optometrist,Routine,General,2026-03-17,No
+2026-03-11,GP,Routine,Medical Retina,2026-04-07,No
+2025-12-04,Optometrist,Routine,Cataract,2026-01-05,No
+2026-03-03,Internal,Routine,Medical Retina,2026-06-21,No
+2026-02-07,Internal,Routine,Medical Retina,2026-06-19,Yes
+2026-01-21,Optometrist,Routine,Glaucoma,2026-04-25,No
+2025-10-18,GP,Routine,General,2026-02-13,No
+2026-03-06,Internal,Routine,Glaucoma,2026-05-12,No
+2025-11-20,GP,Routine,Medical Retina,2026-01-14,No
+2026-02-26,Internal,Routine,Glaucoma,2026-06-21,No
+2026-01-10,GP,Routine,Medical Retina,2026-03-01,No
+2026-02-01,GP,Routine,Medical Retina,2026-05-31,No
+2025-12-27,Optometrist,Routine,Medical Retina,2026-02-15,No
+2025-11-04,GP,Urgent,Medical Retina,2026-01-20,No
+2026-03-10,GP,Routine,Medical Retina,2026-04-02,No
+2025-11-17,Optometrist,Routine,Medical Retina,2026-01-19,No
+2026-01-11,GP,Urgent,Emergency,2026-05-19,Yes
+2025-11-22,GP,Routine,Emergency,2026-01-30,No
+2025-10-07,Internal,Urgent,Emergency,2025-10-21,No
+2026-02-03,GP,Routine,General,2026-05-15,No
+2025-10-06,GP,Routine,Emergency,2025-12-15,No
+2025-11-15,GP,Routine,Emergency,2025-12-28,No
+2026-01-18,Optometrist,Routine,Emergency,2026-02-07,No
+2026-01-06,Optometrist,Urgent,General,2026-03-29,No
+2025-10-26,GP,Urgent,Cataract,2025-12-04,No
+2025-11-10,Optometrist,Routine,Cataract,2025-11-24,No
+2026-02-26,GP,Routine,General,2026-04-05,No
+2025-12-28,Optometrist,Urgent,Medical Retina,2026-02-01,No
+2025-12-21,Internal,Urgent,Cataract,2026-04-02,No
+2025-10-10,Optometrist,Routine,Medical Retina,2025-10-20,No
+2026-03-06,GP,Routine,Cataract,2026-03-31,No
+2026-01-19,Internal,Routine,General,2026-02-23,No
+2025-10-17,Internal,Routine,Medical Retina,2026-01-27,No
+2025-10-02,Optometrist,Routine,Glaucoma,2025-11-18,No
+2026-02-21,GP,Routine,Emergency,2026-05-02,No
+2025-10-05,Optometrist,Urgent,Glaucoma,2025-12-24,No
+2025-11-05,Internal,Routine,Emergency,2026-02-12,No
+2026-01-17,Internal,Routine,Cataract,2026-02-03,No
+2026-02-10,GP,Urgent,Cataract,2026-05-10,No
+2025-10-29,Internal,Urgent,Medical Retina,2025-11-07,No
+2026-01-30,Internal,Routine,Cataract,2026-03-10,No
+2025-12-31,Internal,Urgent,Emergency,2026-04-05,No
+2026-02-03,Optometrist,Routine,Glaucoma,2026-05-07,No
+2026-01-24,Optometrist,Routine,Medical Retina,2026-02-28,No
+2025-10-13,GP,Urgent,General,2025-10-20,No
+2026-01-16,GP,Urgent,Medical Retina,2026-05-13,No
+2025-12-02,Optometrist,Urgent,General,2026-03-24,No
+2025-10-03,GP,Routine,Cataract,2025-12-22,No
+2025-10-14,GP,Routine,Glaucoma,2026-02-14,No
+2026-02-07,Optometrist,Routine,Emergency,2026-05-18,No
+2025-12-06,Internal,Urgent,Medical Retina,2025-12-16,No
+2026-02-21,Optometrist,Urgent,Medical Retina,2026-05-11,No
+2025-12-30,GP,Urgent,Cataract,2026-03-19,No
+2026-02-05,Optometrist,Urgent,Medical Retina,2026-05-21,No
+2026-03-03,Internal,Routine,General,2026-05-24,No
+2026-02-26,Internal,Routine,General,2026-04-18,No
+2025-12-26,Internal,Routine,Glaucoma,2026-03-26,No
+2026-02-12,Internal,Routine,Emergency,2026-05-11,No
+2025-12-23,GP,Routine,Medical Retina,2026-02-18,No
+2025-11-07,GP,Urgent,General,2025-11-22,No
+2026-01-24,GP,Routine,Cataract,2026-04-18,No
+2025-12-20,GP,Urgent,Glaucoma,2026-02-27,No
+2025-11-28,Internal,Routine,General,2026-04-10,Yes
+2026-03-18,Internal,Routine,Cataract,2026-05-29,No
+2026-02-08,Optometrist,Urgent,General,2026-03-23,No
+2026-02-09,Optometrist,Urgent,General,2026-05-07,No
+2025-12-23,Internal,Urgent,Medical Retina,2026-04-14,No
+2026-01-10,GP,Urgent,Emergency,2026-04-22,No
+2025-12-19,Optometrist,Routine,Cataract,2025-12-26,No
+2026-02-03,Internal,Routine,Cataract,2026-06-19,Yes
+2025-11-15,GP,Routine,Medical Retina,2025-11-23,No
+2025-12-08,GP,Routine,Glaucoma,2026-04-06,No
+2025-11-01,GP,Routine,Emergency,2025-11-15,No
+2026-01-10,Optometrist,Routine,Medical Retina,2026-03-30,No
+2025-10-03,Optometrist,Routine,Glaucoma,2025-11-04,No
+2026-03-25,Optometrist,Routine,Cataract,2026-06-14,No
+2025-12-28,GP,Urgent,Cataract,2026-02-15,No
+2026-02-10,GP,Urgent,Emergency,2026-06-04,No
+2026-03-01,Internal,Routine,Emergency,2026-04-17,No
+2025-12-09,Internal,Routine,General,2025-12-24,No
+2025-11-22,Internal,Urgent,Emergency,2026-04-09,Yes
+2025-10-13,GP,Routine,Medical Retina,2026-02-22,Yes
+2026-03-14,Optometrist,Routine,Emergency,2026-07-23,Yes
+2026-02-09,GP,Routine,Glaucoma,2026-04-08,No
+2025-11-03,Optometrist,Routine,Glaucoma,2026-01-03,No
+2026-03-21,GP,Routine,Medical Retina,2026-06-07,No
+2026-03-15,Optometrist,Routine,Cataract,2026-03-30,No
+2026-02-27,Optometrist,Urgent,Medical Retina,2026-04-05,No
+2025-10-21,Optometrist,Routine,Medical Retina,2026-01-11,No
+2025-12-22,GP,Urgent,Cataract,2026-04-09,No
+2026-03-20,Optometrist,Routine,Glaucoma,2026-06-17,No
+2026-03-06,Optometrist,Routine,Glaucoma,2026-04-03,No
+2026-03-12,Optometrist,Routine,Medical Retina,2026-06-23,No
+2026-02-17,GP,Routine,Cataract,2026-05-22,No
+2026-01-05,Optometrist,Routine,Cataract,2026-02-20,No
+2026-02-27,Internal,Routine,Emergency,2026-03-24,No
+2025-10-20,Internal,Urgent,Medical Retina,2026-01-16,No
+2026-01-13,Internal,Routine,Emergency,2026-02-15,No
+2026-02-18,Internal,Routine,Cataract,2026-06-23,No
+2025-11-28,GP,Routine,Medical Retina,2026-03-18,No
+2025-12-05,Internal,Routine,Emergency,2025-12-18,No
+2025-10-08,Internal,Routine,Glaucoma,2026-01-13,No
+2025-10-21,GP,Urgent,General,2026-01-06,No
+2025-12-03,GP,Routine,Cataract,2026-01-11,No
+2025-10-25,GP,Routine,Emergency,2025-11-11,No
+2025-10-30,GP,Routine,General,2025-11-30,No
+2026-01-04,Internal,Urgent,Medical Retina,2026-04-06,No
+2025-11-23,Internal,Routine,Cataract,2026-01-22,No
+2025-10-17,Optometrist,Urgent,Medical Retina,2025-11-12,No
+2025-12-30,Optometrist,Routine,Medical Retina,2026-01-11,No
+2025-10-30,Internal,Routine,Glaucoma,2025-11-08,No
+2025-12-29,Optometrist,Routine,Glaucoma,2026-04-29,No
+2026-03-19,GP,Routine,Emergency,2026-05-15,No
+2025-10-24,Optometrist,Routine,Cataract,2026-02-06,No
+2026-01-24,Internal,Routine,Cataract,2026-02-13,No
+2026-02-23,GP,Routine,Emergency,2026-05-10,No
+2025-11-14,GP,Routine,Cataract,2026-01-15,No
+2026-02-21,Optometrist,Routine,Emergency,2026-05-22,No
+2025-12-18,GP,Routine,Glaucoma,2026-03-14,No
+2025-10-27,Internal,Routine,Emergency,2025-12-23,No
+2025-11-26,Optometrist,Routine,General,2026-03-01,No
+2025-10-19,GP,Routine,Glaucoma,2026-03-03,Yes
+2026-03-01,Optometrist,Routine,Emergency,2026-05-22,No
+2025-12-06,Internal,Urgent,Cataract,2025-12-31,No
+2025-11-25,Optometrist,Routine,Medical Retina,2026-01-23,No
+2025-12-25,Optometrist,Routine,Cataract,2026-04-23,No
+2025-11-25,GP,Routine,Emergency,2025-12-14,No
+2026-01-13,GP,Urgent,Cataract,2026-05-04,No
+2026-02-22,Internal,Routine,Glaucoma,2026-07-07,Yes
+2026-02-10,Internal,Routine,General,2026-05-21,No
+2026-01-07,GP,Routine,General,2026-03-23,No
+2025-10-14,Internal,Routine,Cataract,2026-01-17,No
+2025-11-05,GP,Routine,Medical Retina,2026-01-07,No
+2026-01-25,Optometrist,Routine,General,2026-05-22,No
+2025-12-28,Optometrist,Urgent,General,2026-03-13,No
+2025-10-14,GP,Routine,Cataract,2026-02-15,No
+2026-03-21,Internal,Urgent,Emergency,2026-07-14,No
+2025-12-01,Optometrist,Routine,Emergency,2025-12-21,No
+2025-11-04,Optometrist,Routine,Cataract,2026-02-02,No
+2025-11-11,Internal,Routine,Emergency,2026-03-01,No
+2025-12-17,Optometrist,Routine,Emergency,2026-01-31,No
+2026-02-19,GP,Routine,Emergency,2026-05-11,No
+2025-11-16,Optometrist,Routine,General,2026-01-31,No
+2025-12-17,GP,Routine,Emergency,2026-03-22,No
+2025-10-15,GP,Routine,Emergency,2025-11-03,No
+2026-01-13,Internal,Routine,General,2026-02-05,No
+2025-11-01,GP,Routine,Cataract,2025-11-08,No
+2026-03-17,Internal,Routine,Medical Retina,2026-06-30,No
+2026-01-21,Optometrist,Routine,Glaucoma,2026-02-07,No
+2025-10-23,Internal,Urgent,General,2026-01-27,No
+2026-02-11,GP,Routine,Medical Retina,2026-03-14,No
+2026-02-07,Optometrist,Routine,Glaucoma,2026-04-02,No
+2026-01-23,GP,Urgent,General,2026-03-01,No
+2025-12-02,Optometrist,Urgent,Medical Retina,2026-02-11,No
+2025-10-11,Internal,Urgent,Glaucoma,2025-11-19,No
+2025-10-29,Optometrist,Routine,Cataract,2026-01-12,No
+2025-10-21,Internal,Routine,General,2025-11-05,No
+2025-11-27,Internal,Routine,General,2026-04-09,Yes
+2025-11-17,GP,Routine,Medical Retina,2025-12-31,No
+2026-01-26,Internal,Routine,Emergency,2026-05-09,No
+2026-03-20,GP,Routine,Emergency,2026-04-18,No
+2026-01-11,Optometrist,Routine,General,2026-02-20,No
+2025-10-10,Optometrist,Urgent,Medical Retina,2025-11-30,No
+2026-02-05,Optometrist,Urgent,Emergency,2026-06-10,No
+2025-12-31,GP,Routine,Glaucoma,2026-03-05,No
+2026-02-25,Internal,Routine,Glaucoma,2026-06-11,No
+2026-01-23,Optometrist,Urgent,Emergency,2026-02-08,No
+2026-03-28,Internal,Routine,Medical Retina,2026-06-02,No
+2025-10-11,Internal,Routine,Cataract,2025-10-27,No
+2025-11-07,Optometrist,Routine,Glaucoma,2026-01-09,No
+2026-01-15,GP,Routine,General,2026-05-19,No
+2025-11-07,GP,Routine,Glaucoma,2026-03-17,Yes
+2026-03-16,Internal,Urgent,Medical Retina,2026-07-24,Yes
+2025-10-15,Optometrist,Routine,Medical Retina,2025-12-12,No
+2025-12-08,Optometrist,Urgent,General,2026-01-26,No
+2025-10-08,GP,Routine,General,2025-11-15,No
+2026-01-05,Optometrist,Routine,Cataract,2026-05-19,Yes
+2026-01-20,GP,Urgent,General,2026-04-18,No
+2025-12-09,GP,Routine,Cataract,2025-12-28,No
+2026-01-27,Optometrist,Urgent,General,2026-04-25,No
+2025-12-16,GP,Routine,General,2026-03-31,No
+2026-03-15,Internal,Urgent,Emergency,2026-05-03,No
+2026-01-30,Internal,Routine,Emergency,2026-04-25,No
+2026-03-19,Optometrist,Urgent,Cataract,2026-07-02,No
+2025-12-05,GP,Urgent,Glaucoma,2026-04-11,Yes
+2026-01-07,Optometrist,Routine,Emergency,2026-05-23,Yes
+2026-02-21,Optometrist,Routine,Glaucoma,2026-07-10,Yes
+2025-10-21,Internal,Urgent,Medical Retina,2026-02-28,Yes
+2026-03-27,GP,Routine,Medical Retina,2026-04-26,No
+2026-02-10,GP,Routine,General,2026-05-23,No
+2025-10-22,Internal,Urgent,Cataract,2026-01-22,No
+2026-02-09,Internal,Routine,Medical Retina,2026-03-06,No
+2025-12-21,Internal,Routine,Glaucoma,2026-01-01,No
+2026-03-09,GP,Routine,General,2026-06-09,No
+2026-01-11,Internal,Routine,General,2026-02-04,No
+2026-02-09,Internal,Urgent,Cataract,2026-04-26,No
+2026-02-16,Internal,Routine,Medical Retina,2026-03-07,No
+2025-10-23,GP,Routine,Cataract,2026-03-09,Yes
+2025-10-12,Internal,Routine,General,2026-02-04,No
+2025-11-27,Internal,Routine,Emergency,2026-02-22,No
+2026-02-17,GP,Routine,Cataract,2026-03-26,No
+2026-02-07,GP,Routine,Emergency,2026-03-14,No
+2026-03-13,Internal,Routine,Cataract,2026-03-30,No
+2025-10-13,Internal,Urgent,Glaucoma,2025-12-21,No
+2026-02-07,Optometrist,Routine,Cataract,2026-03-13,No
+2025-10-25,GP,Urgent,General,2025-11-24,No
+2025-12-20,GP,Routine,Medical Retina,2026-04-29,Yes
+2025-12-31,Internal,Urgent,Cataract,2026-02-19,No
+2025-11-26,GP,Routine,General,2026-03-16,No
+2026-02-08,GP,Urgent,Cataract,2026-03-13,No
+2026-02-14,GP,Routine,Emergency,2026-06-25,Yes
+2025-11-14,GP,Routine,Emergency,2025-12-19,No
+2025-12-08,Internal,Routine,Medical Retina,2026-03-27,No
+2026-01-16,Optometrist,Routine,Cataract,2026-04-19,No
+2026-01-20,Optometrist,Routine,Medical Retina,2026-04-10,No
+2025-10-02,GP,Routine,Glaucoma,2025-12-18,No
+2025-12-22,GP,Routine,Medical Retina,2026-03-01,No
+2025-11-12,Internal,Routine,Cataract,2026-01-26,No
+2025-12-18,GP,Urgent,Emergency,2026-03-07,No
+2026-01-24,Optometrist,Urgent,General,2026-03-25,No
+2025-11-18,Internal,Routine,Emergency,2026-03-15,No
+2026-03-08,GP,Routine,Emergency,2026-07-04,No
+2026-03-18,Internal,Routine,Medical Retina,2026-07-21,No
+2026-02-03,GP,Routine,Glaucoma,2026-03-23,No
+2026-03-22,Optometrist,Urgent,General,2026-06-28,No
+2026-03-01,GP,Routine,Emergency,2026-06-18,No
+2025-12-10,GP,Routine,Glaucoma,2026-03-03,No
+2025-11-12,GP,Routine,Medical Retina,2026-01-09,No
+2025-10-21,Optometrist,Routine,General,2025-12-24,No
+2026-03-02,Internal,Routine,Emergency,2026-07-19,Yes
+2025-12-20,Optometrist,Routine,Glaucoma,2026-02-16,No
+2026-01-14,Internal,Routine,Glaucoma,2026-02-03,No
+2026-02-06,GP,Routine,General,2026-04-02,No
+2026-02-17,GP,Routine,Cataract,2026-05-13,No
+2025-11-19,GP,Urgent,Emergency,2025-11-28,No
+2026-01-28,GP,Urgent,Cataract,2026-06-15,Yes
+2025-11-28,GP,Routine,Cataract,2026-04-08,Yes
+2026-03-01,GP,Routine,Medical Retina,2026-03-29,No
+2025-12-09,Internal,Routine,Medical Retina,2026-04-14,No
+2025-12-27,GP,Routine,Cataract,2026-01-06,No
+2025-12-21,Optometrist,Routine,Emergency,2026-03-05,No
+2025-12-07,GP,Routine,Cataract,2026-02-09,No
+2026-01-28,Internal,Routine,Glaucoma,2026-03-31,No
+2025-10-04,GP,Urgent,Cataract,2025-11-30,No
+2026-03-26,Optometrist,Routine,Glaucoma,2026-05-03,No
+2026-03-08,GP,Routine,Emergency,2026-04-25,No
+2026-01-30,Optometrist,Routine,General,2026-05-01,No
+2026-02-18,Optometrist,Routine,Medical Retina,2026-06-24,No
+2026-03-10,GP,Routine,General,2026-04-25,No
+2026-02-13,Optometrist,Routine,Medical Retina,2026-05-27,No
+2025-11-25,GP,Routine,Glaucoma,2026-04-05,Yes
+2025-12-17,Internal,Routine,General,2026-03-21,No
+2026-03-23,GP,Urgent,Cataract,2026-07-24,No
+2026-03-23,Optometrist,Routine,Glaucoma,2026-06-27,No
+2025-10-07,Internal,Routine,Emergency,2026-02-06,No
+2025-10-13,Internal,Urgent,General,2026-01-13,No
+2026-03-29,GP,Routine,General,2026-07-15,No
+2026-01-24,Optometrist,Urgent,Emergency,2026-05-04,No
+2025-11-09,GP,Routine,Medical Retina,2026-03-27,Yes
+2026-03-03,Internal,Routine,Medical Retina,2026-03-19,No
+2025-11-05,Optometrist,Routine,Glaucoma,2026-01-17,No
+2025-12-20,GP,Routine,Emergency,2026-03-04,No
+2025-12-21,Internal,Routine,Emergency,2026-03-12,No
+2025-12-05,GP,Routine,Medical Retina,2026-04-04,No
+2025-10-13,Internal,Routine,Glaucoma,2025-10-25,No
+2025-10-05,GP,Urgent,General,2025-10-16,No
+2026-02-02,Internal,Urgent,Glaucoma,2026-04-30,No
+2026-01-21,Optometrist,Urgent,Medical Retina,2026-04-04,No
+2026-02-15,GP,Routine,Glaucoma,2026-03-09,No
+2025-10-24,Optometrist,Routine,Medical Retina,2025-11-02,No
+2026-03-15,Internal,Routine,Cataract,2026-04-30,No
+2025-11-22,Internal,Routine,Cataract,2026-02-22,No
+2025-12-28,GP,Routine,Emergency,2026-05-04,Yes
+2026-02-23,Optometrist,Routine,Cataract,2026-05-13,No
+2025-12-20,GP,Urgent,Glaucoma,2026-01-31,No
+2026-01-01,Optometrist,Urgent,Glaucoma,2026-02-20,No
+2026-03-29,Optometrist,Routine,Glaucoma,2026-05-04,No
+2026-03-16,Internal,Routine,Cataract,2026-05-30,No
+2025-12-28,Internal,Routine,Cataract,2026-02-06,No
+2026-01-29,GP,Routine,Cataract,2026-02-24,No
+2025-10-17,Optometrist,Routine,Cataract,2026-01-30,No
+2026-03-11,Internal,Urgent,Glaucoma,2026-07-21,Yes
+2026-01-28,Internal,Routine,General,2026-03-26,No
+2026-03-26,GP,Routine,Cataract,2026-07-21,No
+2026-01-21,Internal,Urgent,Glaucoma,2026-04-11,No
+2026-02-06,Optometrist,Routine,Cataract,2026-06-17,Yes
+2025-11-19,Optometrist,Routine,Glaucoma,2026-01-10,No
+2025-11-04,GP,Routine,General,2025-11-11,No
+2025-10-27,Internal,Routine,Cataract,2025-12-24,No
+2025-12-23,Optometrist,Urgent,Medical Retina,2026-04-12,No
+2025-12-29,Internal,Routine,Emergency,2026-05-12,Yes
+2026-02-26,GP,Urgent,Medical Retina,2026-06-02,No
+2025-11-21,GP,Routine,Glaucoma,2026-01-03,No
+2026-02-20,Optometrist,Routine,Glaucoma,2026-06-26,No
+2026-03-23,Internal,Routine,Glaucoma,2026-04-19,No
+2026-01-01,Optometrist,Routine,General,2026-04-15,No
+2026-02-19,Optometrist,Routine,Cataract,2026-03-11,No
+2025-10-07,GP,Routine,General,2026-01-02,No
+2026-03-02,Optometrist,Routine,Emergency,2026-03-13,No
+2026-01-12,GP,Urgent,Glaucoma,2026-03-16,No
+2025-12-24,GP,Routine,Glaucoma,2026-05-09,Yes
+2026-02-08,Internal,Routine,Glaucoma,2026-06-19,Yes
+2025-12-24,Optometrist,Routine,Medical Retina,2026-01-31,No
+2026-01-18,GP,Routine,Glaucoma,2026-05-13,No
+2026-01-08,GP,Urgent,Emergency,2026-02-04,No
+2026-01-25,Internal,Urgent,Emergency,2026-04-06,No
+2025-11-21,GP,Routine,Emergency,2025-12-07,No
+2025-12-09,Internal,Routine,Medical Retina,2026-01-03,No
+2025-12-07,Optometrist,Routine,Medical Retina,2026-01-26,No
+2026-03-07,Optometrist,Routine,Emergency,2026-03-19,No
+2025-11-07,Optometrist,Routine,Emergency,2026-01-21,No
+2025-11-16,Internal,Routine,General,2026-02-03,No
+2026-02-16,Optometrist,Urgent,Emergency,2026-05-25,No
+2026-01-26,Optometrist,Routine,Emergency,2026-04-25,No
+2026-03-12,Internal,Routine,General,2026-06-11,No
+2026-03-13,Optometrist,Routine,Medical Retina,2026-04-03,No
+2025-11-20,Optometrist,Routine,Emergency,2026-04-08,Yes
+2026-03-04,Internal,Routine,Cataract,2026-04-23,No
+2026-03-23,GP,Routine,Emergency,2026-05-21,No
+2026-01-17,GP,Urgent,Glaucoma,2026-03-02,No
+2026-02-18,GP,Routine,Medical Retina,2026-07-07,Yes
+2025-10-22,Optometrist,Routine,Emergency,2025-11-25,No
+2025-10-21,Internal,Urgent,General,2026-02-21,No
+2025-11-02,GP,Routine,Emergency,2026-01-08,No
+2025-11-25,GP,Routine,Cataract,2026-01-05,No
+2025-10-10,Internal,Routine,Emergency,2025-10-25,No
+2026-02-21,GP,Routine,Cataract,2026-07-05,Yes
+2025-10-22,Internal,Routine,Medical Retina,2025-11-24,No
+2026-02-05,Optometrist,Routine,Emergency,2026-02-26,No
+2025-12-20,Optometrist,Urgent,General,2026-02-19,No
+2025-12-25,GP,Urgent,Medical Retina,2026-03-19,No
+2026-02-03,GP,Routine,Emergency,2026-05-11,No
+2026-01-24,Optometrist,Urgent,General,2026-05-24,No
+2026-01-08,Internal,Urgent,Medical Retina,2026-04-17,No
+2026-03-16,GP,Routine,General,2026-07-26,Yes
+2026-03-02,Optometrist,Routine,Cataract,2026-06-12,No
+2025-12-08,Internal,Urgent,Cataract,2026-02-12,No
+2026-02-23,Internal,Routine,Medical Retina,2026-05-25,No
+2026-02-06,Optometrist,Routine,Glaucoma,2026-06-11,No
+2026-03-16,GP,Routine,Emergency,2026-04-25,No
+2025-11-27,Internal,Routine,Emergency,2026-03-06,No
+2025-12-06,GP,Urgent,Cataract,2026-01-28,No
+2025-12-27,GP,Urgent,Emergency,2026-02-27,No
+2026-02-28,Internal,Routine,Glaucoma,2026-04-08,No
+2026-03-08,Optometrist,Routine,Glaucoma,2026-03-30,No
+2025-12-24,Internal,Urgent,Cataract,2026-01-31,No
+2026-03-27,Internal,Routine,Cataract,2026-07-14,No
+2026-01-24,Optometrist,Routine,Emergency,2026-02-09,No
+2025-11-29,GP,Routine,Medical Retina,2026-01-06,No
+2025-12-13,Internal,Routine,Glaucoma,2026-01-04,No
+2026-03-26,Optometrist,Routine,General,2026-04-09,No
+2025-11-02,Optometrist,Routine,Emergency,2026-03-17,Yes
+2025-12-30,Internal,Urgent,Emergency,2026-01-07,No
+2025-11-08,GP,Urgent,Emergency,2026-02-14,No
+2025-11-01,GP,Urgent,General,2026-01-16,No
+2025-10-21,GP,Routine,Glaucoma,2026-01-06,No
+2026-01-15,Optometrist,Routine,Glaucoma,2026-02-22,No
+2026-03-19,Optometrist,Routine,General,2026-05-07,No
+2026-02-08,Optometrist,Routine,General,2026-03-31,No
+2025-11-15,Internal,Urgent,Emergency,2025-11-30,No
+2025-12-08,Internal,Routine,Emergency,2026-03-26,No
+2025-12-07,Optometrist,Routine,General,2026-02-13,No
+2026-03-20,Optometrist,Routine,Glaucoma,2026-06-11,No
+2026-03-02,GP,Routine,Cataract,2026-06-21,No
+2026-01-21,Internal,Routine,Medical Retina,2026-05-17,No
+2026-02-15,GP,Routine,Emergency,2026-05-25,No
+2025-12-14,GP,Routine,Medical Retina,2026-01-27,No
+2025-10-06,Optometrist,Urgent,Medical Retina,2025-11-07,No
+2025-11-27,GP,Routine,General,2026-02-08,No
+2026-01-15,Internal,Urgent,Cataract,2026-06-01,Yes
+2026-02-28,GP,Urgent,General,2026-06-27,No
+2026-02-18,Internal,Routine,Cataract,2026-03-22,No
+2025-10-23,GP,Routine,General,2026-01-02,No
+2025-12-13,Internal,Routine,Emergency,2025-12-23,No
+2025-10-29,GP,Routine,Glaucoma,2025-11-07,No
+2025-12-18,GP,Urgent,Cataract,2026-04-13,No
+2025-12-07,GP,Routine,Cataract,2026-02-28,No
+2025-11-12,GP,Routine,Emergency,2026-01-30,No
+2026-01-15,Optometrist,Urgent,Glaucoma,2026-02-12,No
+2025-11-15,Optometrist,Routine,Cataract,2026-03-29,Yes
+2026-01-03,Optometrist,Routine,Cataract,2026-02-20,No
+2025-11-29,Optometrist,Routine,Cataract,2026-03-26,No
+2025-11-01,Internal,Routine,Cataract,2026-02-28,No
+2025-12-24,GP,Urgent,Medical Retina,2026-01-28,No
+2025-11-30,GP,Routine,Cataract,2025-12-10,No
+2025-10-05,Optometrist,Routine,Glaucoma,2025-12-04,No
+2026-01-16,Internal,Urgent,General,2026-05-19,No
+2026-02-03,Internal,Routine,Medical Retina,2026-04-17,No
+2025-12-28,GP,Routine,Medical Retina,2026-04-04,No
+2026-01-08,Optometrist,Routine,Emergency,2026-02-06,No
+2026-02-21,Optometrist,Routine,Medical Retina,2026-06-02,No
+2026-02-28,Optometrist,Routine,Glaucoma,2026-04-10,No
+2026-03-22,Internal,Routine,General,2026-06-05,No
+2025-10-25,Internal,Routine,General,2026-03-10,Yes
+2025-12-25,GP,Routine,Medical Retina,2026-02-01,No
+2025-12-19,GP,Routine,General,2026-04-25,Yes
+2025-10-20,GP,Routine,Glaucoma,2026-02-25,Yes
+2026-02-14,Optometrist,Routine,Cataract,2026-04-21,No
+2025-12-08,GP,Routine,Cataract,2026-01-09,No
+2025-10-18,Internal,Urgent,Emergency,2026-02-14,No
+2026-03-09,Internal,Routine,Medical Retina,2026-04-19,No
+2025-12-19,Optometrist,Routine,Emergency,2026-01-03,No
+2026-03-06,Internal,Routine,Emergency,2026-05-15,No
+2025-12-06,Optometrist,Urgent,Emergency,2026-02-07,No
+2025-11-26,Internal,Routine,Emergency,2025-12-21,No
+2026-02-11,Internal,Routine,Cataract,2026-03-14,No
+2026-01-10,Internal,Routine,Medical Retina,2026-01-27,No
+2026-03-11,Internal,Routine,Medical Retina,2026-03-26,No
+2026-02-18,Optometrist,Routine,General,2026-04-30,No
+2025-11-29,GP,Urgent,General,2025-12-09,No
+2025-12-09,GP,Routine,Cataract,2026-03-19,No
+2026-02-28,Internal,Routine,General,2026-07-04,No
+2025-12-24,Internal,Routine,Glaucoma,2026-04-25,No
+2026-01-14,Internal,Routine,Emergency,2026-04-02,No
+2025-12-19,Internal,Routine,Cataract,2026-04-18,No
+2025-11-05,Internal,Routine,General,2026-02-06,No
+2025-11-27,Internal,Urgent,Medical Retina,2026-03-10,No
+2026-02-23,GP,Routine,Cataract,2026-03-19,No
+2026-02-20,Internal,Urgent,Cataract,2026-04-07,No
+2026-03-28,Internal,Routine,Emergency,2026-05-29,No
+2025-12-23,Internal,Routine,Glaucoma,2026-04-13,No
+2025-10-25,Optometrist,Urgent,Glaucoma,2026-02-26,No
+2025-10-02,GP,Routine,Emergency,2025-10-15,No
+2025-12-05,Optometrist,Routine,Emergency,2026-02-01,No
+2026-01-02,Internal,Routine,Cataract,2026-04-24,No
+2025-12-15,Internal,Routine,Emergency,2026-01-09,No
+2026-02-13,Internal,Routine,Medical Retina,2026-03-20,No
+2025-11-15,Internal,Urgent,Glaucoma,2026-02-13,No
+2025-10-01,Internal,Urgent,General,2026-01-11,No
+2025-10-18,Optometrist,Routine,General,2025-11-08,No
+2026-03-28,GP,Urgent,General,2026-05-01,No
+2025-12-14,Optometrist,Routine,Medical Retina,2026-04-17,No
+2025-10-04,Optometrist,Routine,Emergency,2025-12-10,No
+2026-01-09,Internal,Routine,Glaucoma,2026-04-08,No
+2026-02-25,GP,Routine,General,2026-05-11,No
+2025-11-01,GP,Urgent,Medical Retina,2025-12-12,No
+2025-11-01,Optometrist,Routine,Emergency,2026-02-01,No
+2026-03-26,Optometrist,Routine,Glaucoma,2026-07-02,No
+2026-03-06,GP,Routine,Cataract,2026-05-27,No
+2026-03-09,Optometrist,Routine,Emergency,2026-06-06,No
+2025-11-25,Internal,Routine,Cataract,2026-04-11,Yes
+2026-03-04,Internal,Routine,Medical Retina,2026-05-19,No
+2026-03-24,Optometrist,Routine,Medical Retina,2026-04-22,No
+2025-11-09,Internal,Routine,General,2026-01-11,No
+2026-01-19,Optometrist,Routine,Cataract,2026-05-22,No
+2025-11-04,GP,Routine,Medical Retina,2025-12-15,No
+2025-10-09,Internal,Urgent,General,2026-01-28,No
+2025-11-07,Optometrist,Urgent,Cataract,2026-01-18,No
+2025-11-10,Optometrist,Routine,Emergency,2025-11-25,No
+2025-12-08,Optometrist,Routine,Cataract,2026-03-04,No
+2025-10-29,Internal,Routine,Emergency,2026-02-17,No
+2025-11-14,GP,Urgent,General,2025-12-26,No
+2026-02-21,Optometrist,Urgent,General,2026-05-13,No
+2026-01-15,Internal,Routine,General,2026-05-03,No
+2026-02-03,Internal,Routine,Glaucoma,2026-06-03,No
+2026-02-22,GP,Urgent,Medical Retina,2026-05-16,No
+2026-03-17,Optometrist,Routine,Cataract,2026-04-13,No
+2026-03-14,Optometrist,Routine,General,2026-05-02,No
+2026-01-04,GP,Routine,Cataract,2026-01-12,No
+2026-03-16,Internal,Urgent,Medical Retina,2026-06-24,No
+2025-12-18,GP,Urgent,Glaucoma,2026-02-16,No
+2026-01-30,Internal,Urgent,Emergency,2026-05-09,No
+2026-03-20,Optometrist,Routine,Medical Retina,2026-07-19,No
+2025-10-16,GP,Routine,Medical Retina,2026-02-09,No
+2025-12-25,Optometrist,Urgent,Medical Retina,2026-04-21,No
+2026-01-17,Optometrist,Routine,Glaucoma,2026-04-28,No
+2026-01-03,GP,Routine,Glaucoma,2026-03-11,No
+2025-10-06,Internal,Routine,Medical Retina,2025-10-18,No
+2025-11-22,GP,Routine,General,2026-03-02,No
+2025-11-09,GP,Urgent,Cataract,2026-03-03,No
+2026-02-13,Internal,Routine,Cataract,2026-02-25,No
+2026-03-24,GP,Urgent,Medical Retina,2026-06-23,No
+2026-03-09,Optometrist,Urgent,Cataract,2026-04-21,No
+2025-10-17,Optometrist,Routine,Glaucoma,2026-01-25,No
+2025-11-20,Optometrist,Urgent,Medical Retina,2026-02-07,No
+2026-02-22,Internal,Urgent,Emergency,2026-05-18,No
+2025-10-16,Optometrist,Routine,Emergency,2026-01-25,No
+2025-11-12,Internal,Routine,Cataract,2025-11-26,No
+2025-11-18,GP,Routine,Glaucoma,2026-03-08,No
+2026-01-17,Internal,Routine,Emergency,2026-05-24,Yes
+2026-01-19,Internal,Routine,Cataract,2026-03-28,No
+2026-01-04,GP,Routine,Glaucoma,2026-02-16,No
+2025-12-07,Internal,Urgent,Emergency,2026-04-22,Yes
+2026-03-17,GP,Routine,General,2026-04-02,No
+2025-12-20,Optometrist,Routine,General,2026-04-25,No
+2026-01-10,Internal,Urgent,General,2026-04-23,No
+2026-02-26,Internal,Routine,Emergency,2026-05-02,No
+2025-10-02,Optometrist,Routine,Glaucoma,2025-10-28,No
+2026-03-17,GP,Routine,Medical Retina,2026-07-06,No
+2026-01-20,GP,Routine,Glaucoma,2026-02-09,No
+2026-03-02,Optometrist,Routine,Medical Retina,2026-05-11,No
+2025-12-23,GP,Routine,Medical Retina,2026-02-14,No
+2026-03-07,Internal,Routine,Medical Retina,2026-04-03,No
+2026-01-03,Internal,Routine,General,2026-04-24,No
+2026-02-03,Internal,Routine,Medical Retina,2026-05-28,No
+2025-11-02,GP,Routine,Emergency,2026-02-11,No
+2026-01-27,Optometrist,Routine,Medical Retina,2026-04-26,No
+2025-10-20,Internal,Routine,Cataract,2026-02-03,No
+2025-12-12,Internal,Routine,General,2025-12-20,No
+2025-12-15,GP,Routine,Cataract,2026-01-04,No
+2026-01-11,GP,Routine,Glaucoma,2026-04-25,No
+2025-10-09,Internal,Urgent,Glaucoma,2025-11-16,No
+2026-03-24,GP,Routine,Glaucoma,2026-04-01,No
+2026-03-08,Optometrist,Routine,Medical Retina,2026-04-15,No
+2025-10-14,Optometrist,Routine,Emergency,2025-11-11,No
+2025-10-14,Optometrist,Routine,General,2025-12-22,No
+2026-02-21,Optometrist,Routine,Medical Retina,2026-06-20,No
+2025-10-22,GP,Urgent,Medical Retina,2026-03-04,Yes
+2025-12-21,GP,Urgent,Glaucoma,2026-04-12,No
+2025-10-27,GP,Routine,Glaucoma,2026-03-03,Yes
+2026-01-30,GP,Urgent,Medical Retina,2026-06-07,Yes
+2025-12-05,GP,Routine,Emergency,2026-01-16,No
+2026-03-19,Internal,Routine,Cataract,2026-04-22,No
+2025-11-14,Optometrist,Urgent,Glaucoma,2025-12-01,No
+2025-11-05,Optometrist,Routine,General,2026-03-15,Yes
+2025-10-16,Internal,Urgent,Cataract,2026-01-26,No
+2025-11-19,GP,Routine,Cataract,2026-03-18,No
+2026-01-29,GP,Urgent,Cataract,2026-02-18,No
+2025-12-03,GP,Routine,Cataract,2025-12-15,No
+2026-01-07,GP,Routine,Medical Retina,2026-03-17,No
+2026-03-05,Optometrist,Routine,Cataract,2026-04-18,No
+2025-12-01,GP,Routine,Cataract,2026-01-28,No
+2026-01-18,Optometrist,Routine,Cataract,2026-03-13,No
+2026-01-09,Optometrist,Routine,Medical Retina,2026-02-22,No
+2026-02-13,Optometrist,Routine,General,2026-06-10,No
+2025-11-01,Optometrist,Routine,Emergency,2026-02-24,No
+2025-12-03,Optometrist,Routine,Medical Retina,2026-02-01,No
+2025-10-19,Internal,Routine,Cataract,2025-12-24,No
+2026-03-10,Internal,Urgent,Cataract,2026-05-01,No
+2026-03-24,GP,Urgent,Emergency,2026-07-26,No
+2025-11-19,GP,Routine,General,2026-02-17,No
+2025-12-09,Internal,Routine,Medical Retina,2026-01-28,No
+2025-12-15,GP,Routine,Emergency,2026-04-29,Yes
+2025-10-06,Internal,Routine,Cataract,2025-11-10,No
+2025-11-22,GP,Routine,Emergency,2026-02-18,No
+2026-02-13,Optometrist,Urgent,Cataract,2026-05-03,No
+2026-01-07,Optometrist,Urgent,Glaucoma,2026-04-12,No
+2026-03-26,GP,Routine,Glaucoma,2026-06-12,No
+2025-11-18,Internal,Routine,Cataract,2025-12-16,No
+2025-12-29,Internal,Routine,Cataract,2026-03-16,No
+2025-12-18,GP,Routine,Glaucoma,2026-01-28,No
+2026-01-20,Internal,Routine,General,2026-03-19,No
+2026-02-22,GP,Urgent,General,2026-07-02,Yes
+2026-03-24,Optometrist,Routine,Cataract,2026-06-04,No
+2025-11-14,Internal,Routine,Medical Retina,2025-12-23,No
+2026-01-26,Internal,Urgent,Medical Retina,2026-03-18,No
+2025-11-04,GP,Routine,Medical Retina,2025-12-21,No
+2026-01-22,Optometrist,Urgent,Medical Retina,2026-02-08,No
+2025-12-02,Optometrist,Routine,Emergency,2025-12-25,No
+2026-03-09,Internal,Routine,General,2026-03-31,No
+2025-10-23,Internal,Urgent,Cataract,2026-01-08,No
+2026-03-22,Internal,Routine,Cataract,2026-05-12,No
+2025-11-20,Internal,Urgent,General,2025-12-02,No
+2026-03-16,GP,Routine,Medical Retina,2026-06-12,No
+2025-10-21,Internal,Routine,Cataract,2026-01-21,No
+2025-12-11,Optometrist,Routine,General,2026-02-26,No
+2025-12-09,Internal,Urgent,Medical Retina,2026-03-14,No
+2025-10-19,Internal,Urgent,General,2026-01-18,No
+2026-02-03,Optometrist,Urgent,Emergency,2026-04-22,No
+2026-03-19,Internal,Routine,Cataract,2026-07-27,Yes
+2026-03-19,GP,Urgent,Glaucoma,2026-07-01,No
+2026-01-10,Optometrist,Routine,Medical Retina,2026-03-07,No
+2026-03-10,GP,Routine,Emergency,2026-07-26,Yes
+2026-03-07,Optometrist,Routine,Cataract,2026-06-06,No
+2025-12-04,Internal,Urgent,Medical Retina,2026-03-16,No
+2025-10-16,Optometrist,Routine,Glaucoma,2025-11-02,No
+2025-11-19,Internal,Routine,Cataract,2025-11-29,No
+2026-03-22,Optometrist,Routine,General,2026-06-20,No
+2026-03-14,Optometrist,Routine,Medical Retina,2026-06-02,No
+2025-11-11,GP,Urgent,Cataract,2026-03-24,Yes
+2026-01-07,Internal,Routine,Medical Retina,2026-02-19,No
+2026-02-02,Optometrist,Urgent,Emergency,2026-05-28,No
+2026-01-21,Internal,Urgent,Glaucoma,2026-01-30,No
+2026-02-07,Internal,Routine,General,2026-02-16,No
+2025-10-09,GP,Routine,General,2026-01-03,No
+2025-10-18,GP,Urgent,Emergency,2025-11-20,No
+2025-12-31,Internal,Urgent,Medical Retina,2026-04-19,No
+2026-02-24,Optometrist,Routine,Emergency,2026-06-19,No
+2026-03-16,Internal,Routine,Medical Retina,2026-06-30,No
+2025-12-06,GP,Routine,Glaucoma,2025-12-17,No
+2025-11-16,Optometrist,Routine,General,2026-01-08,No
+2025-12-23,Internal,Urgent,Emergency,2026-02-16,No
+2026-02-28,Internal,Routine,Glaucoma,2026-03-08,No
+2025-12-24,GP,Urgent,Glaucoma,2026-01-26,No
+2025-11-04,Optometrist,Routine,General,2025-12-21,No
+2026-01-04,Internal,Routine,Cataract,2026-03-03,No
+2026-01-27,GP,Routine,Cataract,2026-03-02,No
+2026-01-15,Optometrist,Urgent,Cataract,2026-02-02,No
+2025-12-15,GP,Routine,General,2026-03-29,No
+2025-10-26,Optometrist,Routine,Emergency,2026-01-20,No
+2025-11-27,Optometrist,Urgent,Glaucoma,2026-02-19,No
+2026-01-29,Optometrist,Urgent,Cataract,2026-05-26,No
+2026-02-23,GP,Routine,Glaucoma,2026-03-20,No
+2025-10-19,Optometrist,Routine,Glaucoma,2025-11-22,No
+2025-12-14,Optometrist,Urgent,Glaucoma,2026-04-12,No
+2026-02-26,Optometrist,Routine,Glaucoma,2026-03-22,No
+2025-10-12,Internal,Urgent,General,2025-11-07,No
+2026-02-20,GP,Urgent,Emergency,2026-06-15,No
+2026-03-19,Internal,Routine,General,2026-06-04,No
+2025-11-16,GP,Routine,Glaucoma,2025-12-21,No
+2025-10-03,Internal,Routine,Emergency,2025-10-21,No
+2026-01-26,Optometrist,Routine,Cataract,2026-05-24,No
+2025-11-21,Optometrist,Routine,Glaucoma,2026-02-27,No
+2025-11-10,Internal,Urgent,Cataract,2026-03-22,Yes
+2026-02-23,GP,Urgent,Cataract,2026-03-25,No
+2025-11-16,GP,Urgent,Medical Retina,2026-01-05,No
+2026-03-10,Optometrist,Routine,Emergency,2026-03-18,No
+2025-11-10,Optometrist,Routine,General,2026-01-01,No
+2025-12-14,GP,Urgent,Glaucoma,2025-12-22,No
+2025-10-28,Optometrist,Routine,Medical Retina,2026-01-25,No
+2026-01-01,GP,Routine,Emergency,2026-02-12,No
+2026-02-13,Internal,Routine,General,2026-06-01,No
+2026-01-01,Internal,Routine,Cataract,2026-01-30,No
+2026-02-06,Internal,Urgent,Cataract,2026-02-22,No
+2026-01-31,Internal,Routine,Medical Retina,2026-03-17,No
+2026-01-17,GP,Routine,Glaucoma,2026-02-09,No
+2025-12-22,GP,Routine,General,2026-02-22,No
+2025-11-13,GP,Routine,Medical Retina,2026-02-25,No
+2025-10-25,Optometrist,Urgent,Medical Retina,2026-01-17,No
+2026-03-18,Internal,Routine,Cataract,2026-04-11,No
+2025-10-17,Optometrist,Urgent,General,2025-12-21,No
+2025-10-11,GP,Urgent,Cataract,2025-11-23,No
+2025-10-05,Optometrist,Urgent,Medical Retina,2026-01-09,No
+2025-12-18,Internal,Routine,Emergency,2026-03-08,No
+2025-11-25,Internal,Routine,General,2026-03-15,No
+2026-01-25,Optometrist,Routine,Cataract,2026-02-18,No
+2026-02-17,Optometrist,Routine,Glaucoma,2026-04-10,No
+2025-11-10,Internal,Urgent,Emergency,2025-11-21,No
+2025-12-01,Optometrist,Urgent,Cataract,2026-02-14,No
+2025-11-19,GP,Routine,General,2025-12-17,No
+2025-11-02,GP,Urgent,Medical Retina,2025-12-01,No
+2026-02-15,Optometrist,Routine,Cataract,2026-06-23,Yes
+2026-02-11,Internal,Routine,General,2026-04-12,No
+2025-10-23,Internal,Routine,Medical Retina,2025-11-23,No
+2026-02-26,Internal,Urgent,Cataract,2026-05-14,No
+2025-11-04,Optometrist,Routine,Glaucoma,2026-01-17,No
+2025-10-07,Optometrist,Urgent,Medical Retina,2025-11-20,No
+2026-01-02,GP,Urgent,Cataract,2026-03-01,No
+2026-01-19,GP,Routine,Cataract,2026-04-05,No
+2026-01-19,Internal,Routine,Glaucoma,2026-04-27,No
+2025-10-08,Internal,Routine,General,2025-11-12,No
+2025-12-18,GP,Routine,Glaucoma,2026-01-16,No
+2026-01-03,Optometrist,Routine,Cataract,2026-05-07,No
+2025-12-12,Optometrist,Urgent,Cataract,2026-04-06,No
+2026-01-24,GP,Routine,General,2026-02-18,No
+2026-01-16,GP,Routine,Glaucoma,2026-02-08,No
+2026-01-04,GP,Urgent,General,2026-05-01,No
+2026-03-28,Optometrist,Routine,Medical Retina,2026-07-23,No
+2025-12-25,GP,Urgent,Medical Retina,2026-01-18,No
+2026-01-19,Internal,Routine,Medical Retina,2026-06-04,Yes
+2025-10-28,Internal,Routine,General,2026-01-29,No
+2026-02-18,GP,Urgent,Medical Retina,2026-04-03,No
+2025-11-28,Optometrist,Routine,Glaucoma,2026-02-16,No
+2025-11-30,GP,Urgent,Cataract,2026-01-07,No
+2026-03-04,GP,Urgent,Glaucoma,2026-05-01,No
+2026-01-22,Internal,Routine,Cataract,2026-05-15,No
+2026-02-05,GP,Routine,Glaucoma,2026-03-14,No
+2026-01-27,Internal,Urgent,Emergency,2026-05-20,No
+2026-01-15,Internal,Urgent,General,2026-04-10,No
+2025-10-23,GP,Urgent,Emergency,2026-02-22,No
+2025-11-24,Internal,Routine,General,2026-01-27,No
+2026-01-15,GP,Routine,Medical Retina,2026-04-25,No
+2026-02-11,Internal,Routine,General,2026-03-08,No
+2025-11-08,GP,Routine,General,2026-01-27,No
+2026-03-13,Optometrist,Routine,Emergency,2026-06-13,No
+2025-10-09,Internal,Urgent,Medical Retina,2026-02-06,No
+2025-10-01,Internal,Routine,Medical Retina,2025-10-08,No
+2025-12-20,Internal,Urgent,Cataract,2026-01-12,No
+2026-01-11,Internal,Urgent,Medical Retina,2026-05-09,No
+2025-10-23,GP,Routine,Medical Retina,2026-02-12,No
+2026-01-02,Internal,Routine,Emergency,2026-04-28,No
+2025-10-19,Optometrist,Routine,Cataract,2025-11-17,No
+2026-01-17,Optometrist,Routine,Medical Retina,2026-04-26,No
+2025-11-11,Optometrist,Urgent,General,2026-03-14,No
+2026-02-04,GP,Routine,Glaucoma,2026-06-01,No
+2025-11-12,Internal,Routine,General,2025-11-29,No
+2026-01-10,Optometrist,Routine,Cataract,2026-05-03,No
+2025-10-06,GP,Urgent,Glaucoma,2025-12-01,No
+2025-12-11,Optometrist,Urgent,Medical Retina,2026-02-12,No
+2025-10-22,Internal,Routine,Glaucoma,2025-12-15,No
+2026-03-10,GP,Routine,Glaucoma,2026-06-23,No
+2026-02-03,Optometrist,Routine,Cataract,2026-05-27,No
+2026-03-03,Internal,Routine,Emergency,2026-07-20,Yes
+2026-03-21,Optometrist,Urgent,Glaucoma,2026-07-17,No
+2025-11-09,Optometrist,Urgent,Medical Retina,2026-02-08,No
+2026-03-01,Optometrist,Routine,Glaucoma,2026-04-09,No
+2025-12-06,GP,Routine,Cataract,2026-02-21,No
+2025-10-05,GP,Urgent,General,2026-02-01,No
+2025-10-08,Optometrist,Routine,Glaucoma,2025-11-11,No
+2026-03-03,Optometrist,Urgent,Emergency,2026-05-15,No
+2026-02-24,Optometrist,Routine,General,2026-06-09,No
+2026-02-06,Internal,Urgent,Glaucoma,2026-02-13,No
+2025-10-31,GP,Routine,Medical Retina,2025-11-26,No
+2026-01-13,Optometrist,Routine,General,2026-03-26,No
+2026-02-17,Internal,Routine,Emergency,2026-05-05,No
+2025-12-05,GP,Routine,Emergency,2026-02-28,No
+2025-10-19,Optometrist,Routine,General,2025-10-31,No
+2026-02-06,Optometrist,Routine,Glaucoma,2026-03-03,No
+2026-02-15,GP,Urgent,Emergency,2026-06-08,No
+2026-03-08,Optometrist,Routine,Medical Retina,2026-06-19,No
+2025-10-01,Optometrist,Routine,Cataract,2025-12-16,No
+2026-01-28,GP,Routine,Emergency,2026-06-14,Yes
+2025-10-01,Internal,Urgent,Cataract,2025-11-24,No
+2025-12-30,GP,Routine,Cataract,2026-04-05,No
+2026-01-26,Internal,Routine,General,2026-04-29,No
+2025-12-30,Internal,Routine,Glaucoma,2026-04-17,No
+2025-12-29,Optometrist,Routine,Cataract,2026-05-03,No
+2025-10-16,Internal,Routine,Emergency,2026-03-03,Yes
+2025-10-22,Internal,Routine,Medical Retina,2026-01-06,No
+2025-12-30,Internal,Urgent,General,2026-04-28,No
+2025-11-11,Internal,Routine,General,2026-02-21,No
+2025-11-20,GP,Routine,Emergency,2026-04-07,Yes
+2025-12-01,Internal,Routine,Glaucoma,2026-01-17,No
+2025-11-14,Optometrist,Routine,Cataract,2025-12-27,No
+2025-12-24,Internal,Routine,Cataract,2026-05-04,Yes
+2026-02-18,Internal,Routine,Cataract,2026-06-02,No
+2025-10-23,Optometrist,Routine,Emergency,2025-12-22,No
+2025-11-28,Internal,Urgent,Glaucoma,2026-03-05,No
+2026-03-09,GP,Routine,Emergency,2026-06-10,No
+2025-10-21,GP,Routine,Cataract,2025-10-30,No
+2025-12-21,GP,Routine,General,2025-12-31,No
+2026-03-22,Optometrist,Urgent,Medical Retina,2026-04-10,No
+2026-02-27,Internal,Routine,Emergency,2026-03-19,No
+2025-11-05,GP,Routine,Cataract,2026-03-10,No
+2026-02-08,Optometrist,Urgent,Cataract,2026-03-24,No
+2025-12-31,Internal,Routine,Glaucoma,2026-01-08,No
+2026-03-03,Internal,Routine,Emergency,2026-04-20,No
+2025-11-09,GP,Routine,Cataract,2025-12-01,No
+2026-02-09,Internal,Urgent,General,2026-04-11,No
+2026-02-13,GP,Routine,Emergency,2026-06-13,No
+2025-12-06,GP,Urgent,Cataract,2026-01-20,No
+2025-11-22,GP,Routine,Medical Retina,2026-02-21,No
+2025-12-05,Optometrist,Routine,Emergency,2025-12-13,No
+2026-02-06,Optometrist,Routine,Glaucoma,2026-05-05,No
+2026-03-13,GP,Urgent,Emergency,2026-03-29,No
+2026-03-28,Optometrist,Urgent,Cataract,2026-08-01,No
+2025-10-06,Optometrist,Urgent,Medical Retina,2025-11-22,No
+2026-01-18,GP,Urgent,Cataract,2026-04-11,No
+2026-03-20,Internal,Urgent,Cataract,2026-06-04,No
+2025-11-16,GP,Routine,Cataract,2025-12-28,No
+2026-02-14,Internal,Routine,General,2026-03-03,No
+2026-02-24,GP,Urgent,Medical Retina,2026-07-12,Yes
+2026-03-06,GP,Urgent,General,2026-05-21,No
+2026-03-26,Internal,Routine,General,2026-05-01,No
+2026-03-04,Internal,Routine,Medical Retina,2026-03-30,No
+2025-12-17,GP,Routine,General,2026-03-06,No
+2026-01-14,Internal,Routine,Medical Retina,2026-01-29,No
+2026-01-08,Internal,Routine,Glaucoma,2026-03-30,No
+2026-03-01,GP,Routine,Glaucoma,2026-05-14,No
+2025-11-23,Internal,Routine,Medical Retina,2026-01-15,No
+2026-01-23,GP,Urgent,Medical Retina,2026-03-15,No
+2026-03-04,Optometrist,Routine,General,2026-05-31,No
+2025-10-11,GP,Routine,Glaucoma,2025-11-27,No
+2026-01-09,Internal,Routine,Glaucoma,2026-01-21,No
+2025-11-26,Optometrist,Urgent,Glaucoma,2026-02-07,No
+2026-02-24,Internal,Routine,Glaucoma,2026-03-09,No
+2025-11-26,Internal,Routine,Medical Retina,2026-01-05,No
+2025-11-15,GP,Urgent,Emergency,2026-03-13,No
+2026-01-31,GP,Routine,Emergency,2026-05-05,No
+2025-12-31,GP,Routine,Medical Retina,2026-01-13,No
+2025-10-31,Optometrist,Urgent,Medical Retina,2026-02-04,No
+2025-10-30,GP,Routine,Cataract,2025-12-26,No
+2026-01-28,GP,Urgent,Cataract,2026-03-25,No
+2025-12-22,Optometrist,Urgent,Emergency,2026-04-25,No
+2025-11-30,Internal,Urgent,Cataract,2026-02-01,No
+2025-10-09,GP,Routine,Glaucoma,2026-01-02,No
+2026-02-21,Internal,Routine,Glaucoma,2026-05-14,No
+2026-03-24,Optometrist,Urgent,Medical Retina,2026-08-03,Yes
+2025-11-12,GP,Routine,General,2025-12-31,No
+2025-11-06,GP,Routine,Glaucoma,2026-02-13,No
+2025-10-16,GP,Routine,Cataract,2025-12-25,No
+2026-01-22,Optometrist,Routine,Cataract,2026-02-26,No
+2025-10-16,GP,Urgent,Glaucoma,2025-11-18,No
+2026-02-04,Internal,Routine,Cataract,2026-04-02,No
+2025-12-19,Internal,Routine,Medical Retina,2026-02-11,No
+2025-11-23,GP,Routine,Emergency,2025-12-05,No
+2025-10-12,Internal,Routine,Medical Retina,2026-01-15,No
+2025-12-30,Internal,Routine,Medical Retina,2026-01-26,No
+2025-12-27,GP,Routine,Emergency,2026-05-02,No
+2026-02-20,Optometrist,Routine,Medical Retina,2026-04-09,No
+2025-12-01,Internal,Routine,Emergency,2026-02-06,No
+2026-01-01,Optometrist,Routine,General,2026-01-28,No
+2025-10-18,Internal,Urgent,Medical Retina,2026-03-01,Yes
+2025-11-18,Optometrist,Routine,Medical Retina,2026-01-20,No
+2025-10-06,Optometrist,Urgent,Emergency,2025-12-01,No
+2025-10-09,Optometrist,Routine,Medical Retina,2026-01-03,No
+2025-11-25,GP,Urgent,Glaucoma,2026-02-25,No
+2025-11-12,GP,Routine,Emergency,2026-03-29,Yes
+2026-02-09,Internal,Routine,General,2026-03-14,No
+2026-01-13,Optometrist,Urgent,Emergency,2026-05-17,No
+2026-03-23,GP,Urgent,Medical Retina,2026-07-23,No
+2026-03-24,GP,Routine,Glaucoma,2026-04-04,No
+2025-12-09,Optometrist,Urgent,Cataract,2026-03-02,No
+2025-12-13,GP,Routine,Medical Retina,2026-04-16,No
+2026-01-28,GP,Urgent,Glaucoma,2026-03-13,No
+2025-10-16,Internal,Urgent,Cataract,2026-01-04,No
+2026-01-31,GP,Routine,Glaucoma,2026-06-14,Yes
+2025-11-29,Optometrist,Routine,Cataract,2026-01-15,No
+2026-02-10,GP,Urgent,Glaucoma,2026-04-08,No
+2026-03-26,GP,Routine,General,2026-06-25,No
+2025-10-28,Internal,Urgent,Cataract,2025-12-06,No
+2025-12-08,Optometrist,Routine,Cataract,2026-02-19,No
+2025-11-03,GP,Urgent,General,2026-02-26,No
+2026-02-27,GP,Routine,Glaucoma,2026-06-25,No
+2026-03-23,Internal,Routine,Medical Retina,2026-07-28,Yes
+2025-10-13,GP,Routine,Cataract,2025-11-25,No
+2025-11-23,Optometrist,Routine,Glaucoma,2026-02-07,No
+2025-11-11,GP,Urgent,General,2026-01-15,No
+2025-11-16,Internal,Routine,Cataract,2026-03-11,No
+2026-03-14,Optometrist,Routine,Medical Retina,2026-04-09,No
+2025-12-18,GP,Routine,Medical Retina,2026-02-11,No
+2025-12-13,GP,Urgent,Emergency,2026-03-31,No
+2026-01-29,Optometrist,Routine,Glaucoma,2026-06-07,Yes
+2025-10-10,Internal,Urgent,General,2026-02-14,Yes
+2025-10-08,Optometrist,Routine,General,2026-02-13,Yes
+2025-10-27,Internal,Routine,Cataract,2025-12-27,No
+2025-11-30,Internal,Routine,Medical Retina,2026-01-28,No
+2025-12-28,GP,Urgent,Glaucoma,2026-04-09,No
+2025-10-08,Internal,Routine,Medical Retina,2025-12-19,No
+2025-10-12,GP,Routine,Medical Retina,2025-11-08,No
+2025-11-06,GP,Routine,Cataract,2025-11-22,No
+2025-12-27,Optometrist,Routine,Glaucoma,2026-02-20,No
+2025-10-24,Optometrist,Routine,Cataract,2026-03-09,Yes
+2026-03-07,GP,Routine,Emergency,2026-05-08,No
+2025-10-24,Internal,Routine,Medical Retina,2025-12-30,No
+2025-10-28,Optometrist,Urgent,Emergency,2025-11-19,No
+2026-03-13,Internal,Routine,Emergency,2026-06-01,No
+2025-11-13,Optometrist,Routine,Medical Retina,2026-01-23,No
+2025-12-31,Optometrist,Urgent,General,2026-05-07,Yes
+2026-01-16,Internal,Urgent,Emergency,2026-01-28,No
+2025-11-12,Optometrist,Routine,Emergency,2025-11-27,No
+2026-02-14,GP,Routine,Cataract,2026-04-30,No
+2026-02-24,Internal,Urgent,Medical Retina,2026-04-11,No
+2026-02-19,GP,Urgent,Glaucoma,2026-05-31,No
+2025-11-08,Internal,Routine,Glaucoma,2025-12-24,No
+2026-03-23,GP,Routine,Medical Retina,2026-05-20,No
+2026-01-08,GP,Urgent,Cataract,2026-01-17,No
+2025-11-27,Internal,Urgent,Emergency,2025-12-12,No
+2026-03-28,Optometrist,Routine,General,2026-08-12,Yes
+2025-10-21,GP,Urgent,General,2026-01-08,No
+2026-03-24,GP,Routine,Emergency,2026-05-27,No
+2026-02-22,Optometrist,Urgent,Glaucoma,2026-05-01,No
+2026-01-04,Internal,Routine,Glaucoma,2026-05-03,No
+2025-12-31,Optometrist,Routine,Medical Retina,2026-01-11,No
+2026-02-16,Optometrist,Routine,Glaucoma,2026-05-25,No
+2025-11-29,GP,Routine,Glaucoma,2026-03-22,No
+2026-01-23,GP,Routine,Emergency,2026-06-06,Yes
+2025-10-21,Internal,Routine,Emergency,2025-11-15,No
+2026-01-21,Optometrist,Routine,Cataract,2026-03-31,No
+2025-12-01,Optometrist,Routine,General,2026-01-08,No
+2026-03-02,Internal,Urgent,Medical Retina,2026-03-31,No
+2025-11-24,Optometrist,Routine,Emergency,2025-12-11,No
+2025-11-24,Internal,Routine,Emergency,2026-02-25,No
+2025-12-20,Optometrist,Urgent,General,2026-01-04,No
+2026-01-07,GP,Urgent,Emergency,2026-03-01,No
+2025-10-20,Internal,Urgent,Cataract,2026-01-27,No
+2025-10-29,GP,Routine,Glaucoma,2025-12-23,No
+2026-01-16,Optometrist,Routine,Glaucoma,2026-03-06,No
+2026-01-16,GP,Urgent,Cataract,2026-03-06,No
+2025-12-03,Internal,Routine,Medical Retina,2026-03-06,No
+2025-12-05,GP,Routine,General,2026-03-31,No
+2026-02-11,Optometrist,Routine,General,2026-04-26,No
+2026-01-30,GP,Urgent,Cataract,2026-03-18,No
+2026-01-30,Internal,Routine,Emergency,2026-02-21,No
+2026-03-27,Optometrist,Routine,General,2026-06-18,No
+2025-11-08,Internal,Routine,Glaucoma,2026-02-28,No
+2025-12-29,Optometrist,Urgent,General,2026-03-04,No
+2025-12-15,Internal,Routine,Glaucoma,2026-02-25,No
+2026-02-13,GP,Routine,Cataract,2026-03-21,No
+2025-12-05,GP,Routine,Emergency,2026-04-19,Yes
